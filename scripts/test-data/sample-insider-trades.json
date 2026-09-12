@@ -1,0 +1,7 @@
+[
+  {"filingDate":"2026-09-10","tradeDate":"2026-09-10","ticker":"GME","company":"GameStop Corp.","insiderName":"Cohen Ryan","insiderTitle":"Pres, CEO, COB","tradeType":"P - Purchase","price":"20.38","qty":"1,000,000","value":"20,375,900","sourcePage":"http://openinsider.com/latest-cluster-buys"},
+  {"filingDate":"2026-09-09","tradeDate":"2026-09-09","ticker":"SNOW","company":"Snowflake Inc.","insiderName":"Dageville Benoit","insiderTitle":"Dir","tradeType":"S - Sale","price":"335.72","qty":"50,000","value":"16,786,000","sourcePage":"http://openinsider.com/latest-insider-trading"},
+  {"filingDate":"2026-09-10","tradeDate":"2026-09-10","ticker":"ATEC","company":"Alphatec Holdings, Inc.","insiderName":"Miles Patrick","insiderTitle":"CEO","tradeType":"P - Purchase","price":"8.81","qty":"115,000","value":"1,013,150","sourcePage":"http://openinsider.com/latest-insider-trading"},
+  {"filingDate":"2026-09-08","tradeDate":"2026-09-08","ticker":"EBAY","company":"eBay Inc","insiderName":"Iannone Jamie","insiderTitle":"Pres, CEO","tradeType":"S - Sale (M)","price":"103.17","qty":"22,220","value":"2,292,440","sourcePage":"http://openinsider.com/latest-insider-trading"},
+  {"filingDate":"2026-09-10","tradeDate":"2026-09-10","ticker":"PRTS","company":"CarParts.com, Inc.","insiderName":"Huffaker Michael","insiderTitle":"COO","tradeType":"P - Purchase","price":"10.06","qty":"13,250","value":"133,295","sourcePage":"http://openinsider.com/latest-cluster-buys"}
+]

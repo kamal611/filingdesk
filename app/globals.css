@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background-color: #fafaf8;
+  color: #0b1220;
+}
+
+.prose-article p {
+  margin-bottom: 1.15rem;
+  line-height: 1.75;
+  font-size: 1.075rem;
+}
