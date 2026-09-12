@@ -35,11 +35,11 @@ export default function ArticlePage({ params }: { params: { slug: string } }) {
     description: article.dek,
     datePublished: article.publishedAt,
     dateModified: article.publishedAt,
-    author: [{ "@type": "Organization", name: siteConfig.name }],
+    author: [{ "@type": "Person", name: article.byline }],
     publisher: {
       "@type": "Organization",
       name: siteConfig.publisherLegalName,
-      logo: { "@type": "ImageObject", url: `https://${siteConfig.domain}/logo.svg` },
+      logo: { "@type": "ImageObject", url: `https://${siteConfig.domain}/icon-512.png` },
     },
     mainEntityOfPage: `https://${siteConfig.domain}/article/${article.slug}`,
   };

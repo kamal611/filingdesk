@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.com/sitemap.xml
-Sitemap: https://example.com/news-sitemap.xml
+Sitemap: https://web-production-31444.up.railway.app/sitemap.xml
+Sitemap: https://web-production-31444.up.railway.app/news-sitemap.xml

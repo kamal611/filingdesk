@@ -1,24 +1,24 @@
 import Link from "next/link";
+import Image from "next/image";
 import { siteConfig } from "@/lib/site-config";
 
 export default function Header() {
   return (
     <header className="border-b border-line bg-paper">
       <div className="mx-auto max-w-6xl px-4">
-        <div className="flex items-center justify-between py-4">
-          <Link href="/" className="flex items-center gap-2">
-            <span className="flex h-9 w-9 items-center justify-center rounded bg-ink font-serif text-lg font-bold text-paper">
-              F
-            </span>
-            <span className="font-serif text-2xl font-bold tracking-tight text-ink">
-              {siteConfig.name}
-            </span>
+        <div className="flex items-center justify-center py-5 sm:justify-start">
+          <Link href="/" className="inline-flex items-center">
+            <Image
+              src="/logo-wordmark.png"
+              alt={siteConfig.name}
+              width={1695}
+              height={305}
+              priority
+              className="h-12 w-auto sm:h-14"
+            />
           </Link>
-          <p className="hidden font-sans text-xs uppercase tracking-wider text-muted sm:block">
-            {siteConfig.tagline}
-          </p>
         </div>
-        <nav className="flex flex-wrap gap-x-6 gap-y-2 border-t border-line py-3 font-sans text-sm font-medium text-ink">
+        <nav className="flex flex-wrap justify-center gap-x-6 gap-y-2 border-t border-line py-3 font-sans text-sm font-medium text-ink sm:justify-start">
           <Link href="/" className="hover:text-accent">
             Latest
           </Link>
