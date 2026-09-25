@@ -1,5 +1,311 @@
 [
   {
+    "slug": "afl-insider-sale-japan-post-holdings-co-ltd-2026-09-25-09-00-16-hwhzk",
+    "title": "Aflac Inc Insider Selling: Japan Post Holdings Co., Ltd. Trims Stake",
+    "dek": "Japan Post Holdings Co., Ltd. (10%) sold 13,500 shares of Aflac Inc, valued at approximately $1.56 million.",
+    "category": "insider-trading",
+    "ticker": "AFL",
+    "companyName": "Aflac Inc",
+    "publishedAt": "2026-09-25T13:01:34.699Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Japan Post Holdings Co., Ltd., 10% at Aflac Inc (AFL), sold 13,500 shares of company stock on 2026-09-23.",
+      "The transaction was executed at a price of $115.20 per share, for a total value of approximately $1.56 million.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — AFL Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "AFL",
+      "Aflac Inc",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "anix-insider-buy-titterton-lewis-h-jr-2026-09-25-08-39-59-ajsdb",
+    "title": "Dir at Anixa Biosciences Inc Buys $131,907 in Stock",
+    "dek": "Titterton Lewis H Jr (Dir) purchased 49,036 shares of Anixa Biosciences Inc, valued at approximately $131,907.",
+    "category": "insider-trading",
+    "ticker": "ANIX",
+    "companyName": "Anixa Biosciences Inc",
+    "publishedAt": "2026-09-25T12:39:34.699Z",
+    "byline": "Max I.",
+    "body": [
+      "Titterton Lewis H Jr, who serves as Dir at Anixa Biosciences Inc (ANIX), purchased 49,036 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $2.69 per share, for a total value of approximately $131,907.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — ANIX Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "ANIX",
+      "Anixa Biosciences Inc",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "jaguar-health-inc-jagx-8k-entry-into-a-material-definitive-agreeme-2026-09-25-fm6jg",
+    "title": "Jaguar Health, Inc.  (JAGX) Files 8-K Regarding Entry into a material definitive agreement",
+    "dek": "Jaguar Health, Inc.  (JAGX) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-09-25.",
+    "category": "corporate-filings",
+    "companyName": "Jaguar Health, Inc.  (JAGX)",
+    "publishedAt": "2026-09-25T12:28:34.699Z",
+    "byline": "Max I.",
+    "body": [
+      "Jaguar Health, Inc.  (JAGX) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-09-25.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — Jaguar Health, Inc.  (JAGX) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1585608&type=8-K",
+    "tags": [
+      "Jaguar Health, Inc.  (JAGX)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "cmpx-insider-buy-neil-lerner-2026-09-25-08-01-13-oljgy",
+    "title": "Neil Lerner, CHIEF ACCOUNTING OFFICER at Compass Therapeutics, Inc., Buys Shares Worth $2,850",
+    "dek": "Neil Lerner (CHIEF ACCOUNTING OFFICER) purchased 2,500 shares of Compass Therapeutics, Inc., valued at approximately $2,850.",
+    "category": "insider-trading",
+    "ticker": "CMPX",
+    "companyName": "Compass Therapeutics, Inc.",
+    "publishedAt": "2026-09-25T12:17:34.699Z",
+    "byline": "Max I.",
+    "body": [
+      "Compass Therapeutics, Inc. (CMPX) disclosed that Neil Lerner, who holds the position of CHIEF ACCOUNTING OFFICER at the company, was involved in buying 2,500 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $1.14 per share, for a total value of approximately $2,850.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — CMPX Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "CMPX",
+      "Compass Therapeutics, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "smwb-insider-sale-or-offer-2026-09-25-07-46-55-58ar9",
+    "title": "Similarweb Ltd. Insider Selling: Or Offer Trims Stake",
+    "dek": "Or Offer (CEO) sold 114,300 shares of Similarweb Ltd., valued at approximately $879,102.",
+    "category": "insider-trading",
+    "ticker": "SMWB",
+    "companyName": "Similarweb Ltd.",
+    "publishedAt": "2026-09-25T11:55:34.699Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Or Offer, CEO at Similarweb Ltd. (SMWB), sold 114,300 shares of company stock on 2026-09-24.",
+      "The transaction was executed at a price of $7.69 per share, for a total value of approximately $879,102.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — SMWB Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "SMWB",
+      "Similarweb Ltd.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "zepp-insider-sale-pengtao-yu-2026-09-25-06-45-23-94ob5",
+    "title": "Zepp Health Corp Insider Selling: Pengtao Yu Trims Stake",
+    "dek": "Pengtao Yu (Chief Industrial Designer) sold 10,000 shares of Zepp Health Corp, valued at approximately $42,110.",
+    "category": "insider-trading",
+    "ticker": "ZEPP",
+    "companyName": "Zepp Health Corp",
+    "publishedAt": "2026-09-25T11:33:34.699Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Pengtao Yu, Chief Industrial Designer at Zepp Health Corp (ZEPP), sold 10,000 shares of company stock on 2026-09-23.",
+      "The transaction was executed at a price of $4.21 per share, for a total value of approximately $42,110.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — ZEPP Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "ZEPP",
+      "Zepp Health Corp",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "se-insider-sale-yanjun-wang-2026-09-25-06-12-56-8h683",
+    "title": "CCO, GC at Sea Ltd Sells $244,912 in Stock",
+    "dek": "Yanjun Wang (CCO, GC) sold 2,400 shares of Sea Ltd, valued at approximately $244,912.",
+    "category": "insider-trading",
+    "ticker": "SE",
+    "companyName": "Sea Ltd",
+    "publishedAt": "2026-09-25T11:11:34.699Z",
+    "byline": "Max I.",
+    "body": [
+      "Yanjun Wang, who serves as CCO, GC at Sea Ltd (SE), sold 2,400 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $102.05 per share, for a total value of approximately $244,912.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — SE Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "SE",
+      "Sea Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "office-properties-income-trust-opi-8k-entry-into-a-material-definitive-agreeme-2026-09-24-e1ls1",
+    "title": "SEC Filing: OFFICE PROPERTIES INCOME TRUST  (OPI) Reports Entry into a material definitive agreement",
+    "dek": "OFFICE PROPERTIES INCOME TRUST  (OPI) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-09-24.",
+    "category": "corporate-filings",
+    "companyName": "OFFICE PROPERTIES INCOME TRUST  (OPI)",
+    "publishedAt": "2026-09-25T11:00:34.699Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by OFFICE PROPERTIES INCOME TRUST  (OPI) with the SEC on 2026-09-24 discloses entry into a material definitive agreement.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — OFFICE PROPERTIES INCOME TRUST  (OPI) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1456772&type=8-K",
+    "tags": [
+      "OFFICE PROPERTIES INCOME TRUST  (OPI)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "nct-insider-buy-muchun-zhu-2026-09-25-06-06-55-af533",
+    "title": "CEO, COB at Intercont (Cayman) Ltd Buys $650,000 in Stock",
+    "dek": "Muchun Zhu (CEO, COB) purchased 1,625,000 shares of Intercont (Cayman) Ltd, valued at approximately $650,000.",
+    "category": "insider-trading",
+    "ticker": "NCT",
+    "companyName": "Intercont (Cayman) Ltd",
+    "publishedAt": "2026-09-25T10:49:34.699Z",
+    "byline": "Max I.",
+    "body": [
+      "Muchun Zhu, who serves as CEO, COB at Intercont (Cayman) Ltd (NCT), purchased 1,625,000 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $0.40 per share, for a total value of approximately $650,000.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — NCT Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "NCT",
+      "Intercont (Cayman) Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "keys-insider-sale-lisa-poole-m-2026-09-25-06-06-23-hxdni",
+    "title": "Lisa Poole M., VP, Controller at Keysight Technologies, Inc., Sells Shares Worth $69,602",
+    "dek": "Lisa Poole M. (VP, Controller) sold 200 shares of Keysight Technologies, Inc., valued at approximately $69,602.",
+    "category": "insider-trading",
+    "ticker": "KEYS",
+    "companyName": "Keysight Technologies, Inc.",
+    "publishedAt": "2026-09-25T10:27:34.699Z",
+    "byline": "Max I.",
+    "body": [
+      "Keysight Technologies, Inc. (KEYS) disclosed that Lisa Poole M., who holds the position of VP, Controller at the company, was involved in selling 200 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $348.01 per share, for a total value of approximately $69,602.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — KEYS Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "KEYS",
+      "Keysight Technologies, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "msc-insider-buy-ho-lawrence-yau-lung-2026-09-25-06-01-47-rx2y1",
+    "title": "Ho Lawrence Yau Lung, Dir at Studio City International Holdings Ltd, Buys Shares Worth $206,320",
+    "dek": "Ho Lawrence Yau Lung (Dir) purchased 1,043,600 shares of Studio City International Holdings Ltd, valued at approximately $206,320.",
+    "category": "insider-trading",
+    "ticker": "MSC",
+    "companyName": "Studio City International Holdings Ltd",
+    "publishedAt": "2026-09-25T10:05:34.699Z",
+    "byline": "Max I.",
+    "body": [
+      "Studio City International Holdings Ltd (MSC) disclosed that Ho Lawrence Yau Lung, who holds the position of Dir at the company, was involved in buying 1,043,600 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $0.20 per share, for a total value of approximately $206,320.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — MSC Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "MSC",
+      "Studio City International Holdings Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "mlys-insider-sale-brian-taylor-slingsby-2026-09-24-21-49-40-inzcx",
+    "title": "Mineralys Therapeutics, Inc. Insider Selling: Brian Taylor Slingsby Trims Stake",
+    "dek": "Brian Taylor Slingsby (Dir) sold 104,320 shares of Mineralys Therapeutics, Inc., valued at approximately $3.01 million.",
+    "category": "insider-trading",
+    "ticker": "MLYS",
+    "companyName": "Mineralys Therapeutics, Inc.",
+    "publishedAt": "2026-09-25T09:43:34.699Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Brian Taylor Slingsby, Dir at Mineralys Therapeutics, Inc. (MLYS), sold 104,320 shares of company stock on 2026-09-22.",
+      "The transaction was executed at a price of $28.81 per share, for a total value of approximately $3.01 million.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — MLYS Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "MLYS",
+      "Mineralys Therapeutics, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "plab-insider-sale-kang-jyh-lee-2026-09-24-21-35-53-nbprj",
+    "title": "Dir at Photronics Inc Sells $297,000 in Stock",
+    "dek": "Kang Jyh Lee (Dir) sold 10,000 shares of Photronics Inc, valued at approximately $297,000.",
+    "category": "insider-trading",
+    "ticker": "PLAB",
+    "companyName": "Photronics Inc",
+    "publishedAt": "2026-09-25T09:21:34.699Z",
+    "byline": "Max I.",
+    "body": [
+      "Kang Jyh Lee, who serves as Dir at Photronics Inc (PLAB), sold 10,000 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $29.70 per share, for a total value of approximately $297,000.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — PLAB Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "PLAB",
+      "Photronics Inc",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
     "slug": "mxf-insider-buy-saba-capital-management-l-p-2026-09-24-08-55-44-f95c3",
     "title": "Saba Capital Management, L.P., 10% at Mexico Fund Inc, Buys Shares Worth $600,612",
     "dek": "Saba Capital Management, L.P. (10%) purchased 28,574 shares of Mexico Fund Inc, valued at approximately $600,612.",
