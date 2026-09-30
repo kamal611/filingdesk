@@ -12,6 +12,9 @@ export function generateMetadata({ params }: { params: { slug: string } }): Meta
   return {
     title: cat.label,
     description: `Latest ${cat.label} coverage from ${siteConfig.name}, sourced directly from SEC filings.`,
+    alternates: {
+      canonical: `/category/${params.slug}`,
+    },
   };
 }
 

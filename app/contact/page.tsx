@@ -1,6 +1,6 @@
 import { siteConfig } from "@/lib/site-config";
 
-export const metadata = { title: "Contact" };
+export const metadata = { title: "Contact", alternates: { canonical: "/contact" } };
 
 export default function ContactPage() {
   return (
@@ -8,10 +8,10 @@ export default function ContactPage() {
       <h1 className="font-serif text-3xl font-bold text-ink">Contact {siteConfig.name}</h1>
       <p className="mt-4 text-muted">
         For corrections, questions, or licensing inquiries, reach us at{" "}
-        <a className="text-accent hover:underline" href="mailto:editors@example.com">
-          editors@example.com
+        <a className="text-accent hover:underline" href="mailto:crownchimneysweepsd@gmail.com">
+          crownchimneysweepsd@gmail.com
         </a>
-        . (Replace with your real contact address before launch.)
+        .
       </p>
     </div>
   );

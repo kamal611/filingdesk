@@ -8,7 +8,7 @@ export const siteConfig = {
   tagline: "SEC Filings · Earnings · Markets · Corporate News",
   description:
     "Financier Post covers insider trading disclosures, SEC filings, and material corporate events as they are reported to regulators — original reporting built directly from primary-source filings.",
-  domain: "web-production-31444.up.railway.app", // update once a custom domain is connected
+  domain: "financierpost.com",
   twitterHandle: "@financierpost",
   categories: [
     { slug: "insider-trading", label: "Insider Trading" },

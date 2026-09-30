@@ -1,6 +1,9 @@
 import { siteConfig } from "@/lib/site-config";
 
-export const metadata = { title: "Editorial Standards & Sources" };
+export const metadata = {
+  title: "Editorial Standards & Sources",
+  alternates: { canonical: "/editorial-standards" },
+};
 
 export default function EditorialStandardsPage() {
   return (

@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://web-production-31444.up.railway.app/sitemap.xml
-Sitemap: https://web-production-31444.up.railway.app/news-sitemap.xml
+Sitemap: https://financierpost.com/sitemap.xml
+Sitemap: https://financierpost.com/news-sitemap.xml
