@@ -1,5 +1,308 @@
 [
   {
+    "slug": "afl-insider-sale-japan-post-holdings-co-ltd-2026-10-07-09-00-17-dyzga",
+    "title": "10% at Aflac Inc Sells $1.46 million in Stock",
+    "dek": "Japan Post Holdings Co., Ltd. (10%) sold 13,000 shares of Aflac Inc, valued at approximately $1.46 million.",
+    "category": "insider-trading",
+    "ticker": "AFL",
+    "companyName": "Aflac Inc",
+    "publishedAt": "2026-10-07T13:02:49.573Z",
+    "byline": "Max I.",
+    "body": [
+      "Japan Post Holdings Co., Ltd., who serves as 10% at Aflac Inc (AFL), sold 13,000 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $112.25 per share, for a total value of approximately $1.46 million.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — AFL Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "AFL",
+      "Aflac Inc",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "agmb-insider-buy-david-epstein-r-2026-10-07-08-57-36-5sq8p",
+    "title": "Agomab Therapeutics Nv Insider Buying: David Epstein R Adds Stake",
+    "dek": "David Epstein R (Dir) purchased 10,000 shares of Agomab Therapeutics Nv, valued at approximately $86,350.",
+    "category": "insider-trading",
+    "ticker": "AGMB",
+    "companyName": "Agomab Therapeutics Nv",
+    "publishedAt": "2026-10-07T12:40:49.573Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows David Epstein R, Dir at Agomab Therapeutics Nv (AGMB), purchased 10,000 shares of company stock on 2026-10-05.",
+      "The transaction was executed at a price of $8.64 per share, for a total value of approximately $86,350.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — AGMB Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "AGMB",
+      "Agomab Therapeutics Nv",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "ocean-power-technologies-inc-optt-8k-entry-into-a-material-definitive-agreeme-2026-10-07-12hvh",
+    "title": "Ocean Power Technologies, Inc.  (OPTT) Files 8-K Regarding Entry into a material definitive agreement",
+    "dek": "Ocean Power Technologies, Inc.  (OPTT) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-07.",
+    "category": "corporate-filings",
+    "companyName": "Ocean Power Technologies, Inc.  (OPTT)",
+    "publishedAt": "2026-10-07T12:29:49.573Z",
+    "byline": "Max I.",
+    "body": [
+      "Ocean Power Technologies, Inc.  (OPTT) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-10-07.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — Ocean Power Technologies, Inc.  (OPTT) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1378140&type=8-K",
+    "tags": [
+      "Ocean Power Technologies, Inc.  (OPTT)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "bosc-insider-sale-osnat-gur-2026-10-07-08-48-44-9gxr9",
+    "title": "Osnat Gur, Dir at Bos Better Online Solutions Ltd, Sells Shares Worth $34,838",
+    "dek": "Osnat Gur (Dir) sold 7,500 shares of Bos Better Online Solutions Ltd, valued at approximately $34,838.",
+    "category": "insider-trading",
+    "ticker": "BOSC",
+    "companyName": "Bos Better Online Solutions Ltd",
+    "publishedAt": "2026-10-07T12:18:49.573Z",
+    "byline": "Max I.",
+    "body": [
+      "Bos Better Online Solutions Ltd (BOSC) disclosed that Osnat Gur, who holds the position of Dir at the company, was involved in selling 7,500 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $4.65 per share, for a total value of approximately $34,838.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — BOSC Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "BOSC",
+      "Bos Better Online Solutions Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "agmb-insider-buy-kemula-pierre-thadee-victor-2026-10-07-08-47-17-43w3a",
+    "title": "Agomab Therapeutics Nv Insider Buying: Kemula Pierre Thadee Victor Adds Stake",
+    "dek": "Kemula Pierre Thadee Victor (CFO) purchased 10,000 shares of Agomab Therapeutics Nv, valued at approximately $85,940.",
+    "category": "insider-trading",
+    "ticker": "AGMB",
+    "companyName": "Agomab Therapeutics Nv",
+    "publishedAt": "2026-10-07T11:56:49.573Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Kemula Pierre Thadee Victor, CFO at Agomab Therapeutics Nv (AGMB), purchased 10,000 shares of company stock on 2026-10-06.",
+      "The transaction was executed at a price of $8.59 per share, for a total value of approximately $85,940.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — AGMB Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "AGMB",
+      "Agomab Therapeutics Nv",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "dalrada-technology-group-inc-dhti-8k-entry-into-a-material-definitive-agreeme-2026-10-07-wkqij",
+    "title": "Dalrada Technology Group, Inc.  (DHTI) Files 8-K Regarding Entry into a material definitive agreement",
+    "dek": "Dalrada Technology Group, Inc.  (DHTI) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-07.",
+    "category": "corporate-filings",
+    "companyName": "Dalrada Technology Group, Inc.  (DHTI)",
+    "publishedAt": "2026-10-07T11:45:49.573Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by Dalrada Technology Group, Inc.  (DHTI) with the SEC on 2026-10-07 discloses entry into a material definitive agreement.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — Dalrada Technology Group, Inc.  (DHTI) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=725394&type=8-K",
+    "tags": [
+      "Dalrada Technology Group, Inc.  (DHTI)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "agmb-insider-buy-tim-jasper-knotnerus-2026-10-07-08-06-35-ckt1y",
+    "title": "Agomab Therapeutics Nv Insider Buying: Tim Jasper Knotnerus Adds Stake",
+    "dek": "Tim Jasper Knotnerus (CEO) purchased 11,000 shares of Agomab Therapeutics Nv, valued at approximately $94,380.",
+    "category": "insider-trading",
+    "ticker": "AGMB",
+    "companyName": "Agomab Therapeutics Nv",
+    "publishedAt": "2026-10-07T11:34:49.573Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Tim Jasper Knotnerus, CEO at Agomab Therapeutics Nv (AGMB), purchased 11,000 shares of company stock on 2026-10-05.",
+      "The transaction was executed at a price of $8.58 per share, for a total value of approximately $94,380.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — AGMB Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "AGMB",
+      "Agomab Therapeutics Nv",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "uxin-insider-buy-kun-dai-2026-10-07-08-00-11-6kdlq",
+    "title": "CEO at Uxin Ltd Buys $8,697 in Stock",
+    "dek": "Kun Dai (CEO) purchased 7,023 shares of Uxin Ltd, valued at approximately $8,697.",
+    "category": "insider-trading",
+    "ticker": "UXIN",
+    "companyName": "Uxin Ltd",
+    "publishedAt": "2026-10-07T11:12:49.573Z",
+    "byline": "Max I.",
+    "body": [
+      "Kun Dai, who serves as CEO at Uxin Ltd (UXIN), purchased 7,023 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $1.24 per share, for a total value of approximately $8,697.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — UXIN Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "UXIN",
+      "Uxin Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "borr-insider-buy-tor-olav-troim-2026-10-07-07-57-46-exl0e",
+    "title": "Dir at Borr Drilling Ltd Buys $6.36 million in Stock",
+    "dek": "Tor Olav Troim (Dir) purchased 1,500,000 shares of Borr Drilling Ltd, valued at approximately $6.36 million.",
+    "category": "insider-trading",
+    "ticker": "BORR",
+    "companyName": "Borr Drilling Ltd",
+    "publishedAt": "2026-10-07T10:50:49.573Z",
+    "byline": "Max I.",
+    "body": [
+      "Tor Olav Troim, who serves as Dir at Borr Drilling Ltd (BORR), purchased 1,500,000 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $4.24 per share, for a total value of approximately $6.36 million.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — BORR Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "BORR",
+      "Borr Drilling Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "irix-insider-buy-shih-yao-david-lin-2026-10-07-06-10-14-6b15l",
+    "title": "10% at Iridex Corp Buys $438,762 in Stock",
+    "dek": "Shih-Yao David Lin (10%) purchased 350,557 shares of Iridex Corp, valued at approximately $438,762.",
+    "category": "insider-trading",
+    "ticker": "IRIX",
+    "companyName": "Iridex Corp",
+    "publishedAt": "2026-10-07T10:28:49.573Z",
+    "byline": "Max I.",
+    "body": [
+      "Shih-Yao David Lin, who serves as 10% at Iridex Corp (IRIX), purchased 350,557 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $1.25 per share, for a total value of approximately $438,762.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — IRIX Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "IRIX",
+      "Iridex Corp",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "irix-insider-buy-shih-yao-david-lin-2026-10-07-06-08-08-po7r9",
+    "title": "Iridex Corp Insider Buying: Shih-Yao David Lin Adds Stake",
+    "dek": "Shih-Yao David Lin (10%) purchased 266,068 shares of Iridex Corp, valued at approximately $273,611.",
+    "category": "insider-trading",
+    "ticker": "IRIX",
+    "companyName": "Iridex Corp",
+    "publishedAt": "2026-10-07T10:06:49.573Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Shih-Yao David Lin, 10% at Iridex Corp (IRIX), purchased 266,068 shares of company stock on 2025-06-06.",
+      "The transaction was executed at a price of $1.03 per share, for a total value of approximately $273,611.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — IRIX Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "IRIX",
+      "Iridex Corp",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "entravision-communications-corp-evc-8k-entry-into-a-material-definitive-agreeme-2026-10-06-uz99n",
+    "title": "ENTRAVISION COMMUNICATIONS CORP  (EVC) Discloses Entry into a material definitive agreement in New SEC Filing",
+    "dek": "ENTRAVISION COMMUNICATIONS CORP  (EVC) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-06.",
+    "category": "corporate-filings",
+    "companyName": "ENTRAVISION COMMUNICATIONS CORP  (EVC)",
+    "publishedAt": "2026-10-07T09:55:49.573Z",
+    "byline": "Max I.",
+    "body": [
+      "ENTRAVISION COMMUNICATIONS CORP  (EVC) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-10-06.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — ENTRAVISION COMMUNICATIONS CORP  (EVC) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1109116&type=8-K",
+    "tags": [
+      "ENTRAVISION COMMUNICATIONS CORP  (EVC)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "irix-insider-buy-shih-yao-david-lin-2026-10-07-06-04-23-zau2c",
+    "title": "10% at Iridex Corp Buys $597,903 in Stock",
+    "dek": "Shih-Yao David Lin (10%) purchased 570,184 shares of Iridex Corp, valued at approximately $597,903.",
+    "category": "insider-trading",
+    "ticker": "IRIX",
+    "companyName": "Iridex Corp",
+    "publishedAt": "2026-10-07T09:44:49.573Z",
+    "byline": "Max I.",
+    "body": [
+      "Shih-Yao David Lin, who serves as 10% at Iridex Corp (IRIX), purchased 570,184 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $1.05 per share, for a total value of approximately $597,903.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — IRIX Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "IRIX",
+      "Iridex Corp",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
     "slug": "afl-insider-sale-japan-post-holdings-co-ltd-2026-10-06-09-00-30-1grvf",
     "title": "10% at Aflac Inc Sells $1.47 million in Stock",
     "dek": "Japan Post Holdings Co., Ltd. (10%) sold 13,200 shares of Aflac Inc, valued at approximately $1.47 million.",
