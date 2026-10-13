@@ -1,5 +1,299 @@
 [
   {
+    "slug": "cien-insider-sale-gary-smith-b-2026-10-13-08-48-35-1o2z8",
+    "title": "Pres, CEO at Ciena Corp Sells $1.09 million in Stock",
+    "dek": "Gary Smith B (Pres, CEO) sold 2,952 shares of Ciena Corp, valued at approximately $1.09 million.",
+    "category": "insider-trading",
+    "ticker": "CIEN",
+    "companyName": "Ciena Corp",
+    "publishedAt": "2026-10-13T13:01:21.141Z",
+    "byline": "Max I.",
+    "body": [
+      "Gary Smith B, who serves as Pres, CEO at Ciena Corp (CIEN), sold 2,952 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $369.66 per share, for a total value of approximately $1.09 million.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — CIEN Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "CIEN",
+      "Ciena Corp",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "accelevation-holdings-corp-accv-8k-entry-into-a-material-definitive-agreeme-2026-10-13-okkx0",
+    "title": "Accelevation Holdings Corp.  (ACCV) Discloses Entry into a material definitive agreement in New SEC Filing",
+    "dek": "Accelevation Holdings Corp.  (ACCV) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-13.",
+    "category": "corporate-filings",
+    "companyName": "Accelevation Holdings Corp.  (ACCV)",
+    "publishedAt": "2026-10-13T12:50:21.141Z",
+    "byline": "Max I.",
+    "body": [
+      "Accelevation Holdings Corp.  (ACCV) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-10-13.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — Accelevation Holdings Corp.  (ACCV) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2141406&type=8-K",
+    "tags": [
+      "Accelevation Holdings Corp.  (ACCV)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "sar-insider-buy-christian-oberbeck-l-2026-10-13-08-30-27-8sgts",
+    "title": "CEO, Dir at Saratoga Investment Corp. Buys $445,800 in Stock",
+    "dek": "Christian Oberbeck L (CEO, Dir) purchased 30,000 shares of Saratoga Investment Corp., valued at approximately $445,800.",
+    "category": "insider-trading",
+    "ticker": "SAR",
+    "companyName": "Saratoga Investment Corp.",
+    "publishedAt": "2026-10-13T12:39:21.141Z",
+    "byline": "Max I.",
+    "body": [
+      "Christian Oberbeck L, who serves as CEO, Dir at Saratoga Investment Corp. (SAR), purchased 30,000 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $14.86 per share, for a total value of approximately $445,800.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — SAR Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "SAR",
+      "Saratoga Investment Corp.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "ares-commercial-real-estate-corp-acre-8k-entry-into-a-material-definitive-agreeme-2026-10-09-p038a",
+    "title": "SEC Filing: Ares Commercial Real Estate Corp  (ACRE) Reports Entry into a material definitive agreement",
+    "dek": "Ares Commercial Real Estate Corp  (ACRE) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-09.",
+    "category": "corporate-filings",
+    "companyName": "Ares Commercial Real Estate Corp  (ACRE)",
+    "publishedAt": "2026-10-13T12:28:21.141Z",
+    "byline": "Max I.",
+    "body": [
+      "Ares Commercial Real Estate Corp  (ACRE) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-10-09.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — Ares Commercial Real Estate Corp  (ACRE) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1529377&type=8-K",
+    "tags": [
+      "Ares Commercial Real Estate Corp  (ACRE)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "borr-insider-buy-tor-olav-troim-2026-10-13-08-28-07-82yd4",
+    "title": "Tor Olav Troim, Dir at Borr Drilling Ltd, Buys Shares Worth $11.8 million",
+    "dek": "Tor Olav Troim (Dir) purchased 2,500,000 shares of Borr Drilling Ltd, valued at approximately $11.8 million.",
+    "category": "insider-trading",
+    "ticker": "BORR",
+    "companyName": "Borr Drilling Ltd",
+    "publishedAt": "2026-10-13T12:17:21.141Z",
+    "byline": "Max I.",
+    "body": [
+      "Borr Drilling Ltd (BORR) disclosed that Tor Olav Troim, who holds the position of Dir at the company, was involved in buying 2,500,000 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $4.74 per share, for a total value of approximately $11.8 million.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — BORR Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "BORR",
+      "Borr Drilling Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "altria-group-inc-mo-8k-entry-into-a-material-definitive-agreeme-2026-10-09-v6g4z",
+    "title": "ALTRIA GROUP, INC.  (MO) Discloses Entry into a material definitive agreement in New SEC Filing",
+    "dek": "ALTRIA GROUP, INC.  (MO) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-09.",
+    "category": "corporate-filings",
+    "companyName": "ALTRIA GROUP, INC.  (MO)",
+    "publishedAt": "2026-10-13T12:06:21.141Z",
+    "byline": "Max I.",
+    "body": [
+      "ALTRIA GROUP, INC.  (MO) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-10-09.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — ALTRIA GROUP, INC.  (MO) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=764180&type=8-K",
+    "tags": [
+      "ALTRIA GROUP, INC.  (MO)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "ped-insider-buy-simon-kukes-g-2026-10-13-08-11-17-u48lq",
+    "title": "Pedevco Corp Insider Buying: Simon Kukes G Adds Stake",
+    "dek": "Simon Kukes G (10%) purchased 147,070 shares of Pedevco Corp, valued at approximately $1.91 million.",
+    "category": "insider-trading",
+    "ticker": "PED",
+    "companyName": "Pedevco Corp",
+    "publishedAt": "2026-10-13T11:55:21.141Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Simon Kukes G, 10% at Pedevco Corp (PED), purchased 147,070 shares of company stock on 2026-10-08.",
+      "The transaction was executed at a price of $13.00 per share, for a total value of approximately $1.91 million.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — PED Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "PED",
+      "Pedevco Corp",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "adia-med-inc-adia-8k-entry-into-a-material-definitive-agreeme-2026-10-13-1uac1",
+    "title": "SEC Filing: Adia Med, Inc.  (ADIA) Reports Entry into a material definitive agreement",
+    "dek": "Adia Med, Inc.  (ADIA) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-13.",
+    "category": "corporate-filings",
+    "companyName": "Adia Med, Inc.  (ADIA)",
+    "publishedAt": "2026-10-13T11:44:21.141Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by Adia Med, Inc.  (ADIA) with the SEC on 2026-10-13 discloses entry into a material definitive agreement.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — Adia Med, Inc.  (ADIA) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1160420&type=8-K",
+    "tags": [
+      "Adia Med, Inc.  (ADIA)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "uxin-insider-buy-kun-dai-2026-10-13-08-00-06-mbn6v",
+    "title": "Uxin Ltd Insider Buying: Kun Dai Adds Stake",
+    "dek": "Kun Dai (CEO) purchased 18,827 shares of Uxin Ltd, valued at approximately $21,446.",
+    "category": "insider-trading",
+    "ticker": "UXIN",
+    "companyName": "Uxin Ltd",
+    "publishedAt": "2026-10-13T11:33:21.141Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Kun Dai, CEO at Uxin Ltd (UXIN), purchased 18,827 shares of company stock on 2026-10-09.",
+      "The transaction was executed at a price of $1.14 per share, for a total value of approximately $21,446.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — UXIN Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "UXIN",
+      "Uxin Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "innovate-corp-vate-8k-entry-into-a-material-definitive-agreeme-2026-10-09-jlgn3",
+    "title": "INNOVATE Corp.  (VATE) Files 8-K Regarding Entry into a material definitive agreement",
+    "dek": "INNOVATE Corp.  (VATE) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-09.",
+    "category": "corporate-filings",
+    "companyName": "INNOVATE Corp.  (VATE)",
+    "publishedAt": "2026-10-13T11:22:21.141Z",
+    "byline": "Max I.",
+    "body": [
+      "INNOVATE Corp.  (VATE) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-10-09.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — INNOVATE Corp.  (VATE) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1006837&type=8-K",
+    "tags": [
+      "INNOVATE Corp.  (VATE)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "atex-insider-sale-elena-marquez-2026-10-13-07-57-25-1jw67",
+    "title": "CFO at Anterix Inc. Sells $400,607 in Stock",
+    "dek": "Elena Marquez (CFO) sold 4,981 shares of Anterix Inc., valued at approximately $400,607.",
+    "category": "insider-trading",
+    "ticker": "ATEX",
+    "companyName": "Anterix Inc.",
+    "publishedAt": "2026-10-13T11:11:21.141Z",
+    "byline": "Max I.",
+    "body": [
+      "Elena Marquez, who serves as CFO at Anterix Inc. (ATEX), sold 4,981 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $80.43 per share, for a total value of approximately $400,607.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — ATEX Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "ATEX",
+      "Anterix Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "cheetah-net-supply-chain-service-inc-ctnt-8k-entry-into-a-material-definitive-agreeme-2026-10-09-2fzx1",
+    "title": "CHEETAH NET SUPPLY CHAIN SERVICE INC.  (CTNT) Discloses Entry into a material definitive agreement in New SEC Filing",
+    "dek": "CHEETAH NET SUPPLY CHAIN SERVICE INC.  (CTNT) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-09.",
+    "category": "corporate-filings",
+    "companyName": "CHEETAH NET SUPPLY CHAIN SERVICE INC.  (CTNT)",
+    "publishedAt": "2026-10-13T11:00:21.141Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by CHEETAH NET SUPPLY CHAIN SERVICE INC.  (CTNT) with the SEC on 2026-10-09 discloses entry into a material definitive agreement.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — CHEETAH NET SUPPLY CHAIN SERVICE INC.  (CTNT) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1951667&type=8-K",
+    "tags": [
+      "CHEETAH NET SUPPLY CHAIN SERVICE INC.  (CTNT)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "gwre-insider-sale-michael-george-rosenbaum-2026-10-13-07-38-40-8kfvs",
+    "title": "Guidewire Software, Inc. Insider Selling: Michael George Rosenbaum Trims Stake",
+    "dek": "Michael George Rosenbaum (CEO) sold 1,200 shares of Guidewire Software, Inc., valued at approximately $202,764.",
+    "category": "insider-trading",
+    "ticker": "GWRE",
+    "companyName": "Guidewire Software, Inc.",
+    "publishedAt": "2026-10-13T10:49:21.141Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Michael George Rosenbaum, CEO at Guidewire Software, Inc. (GWRE), sold 1,200 shares of company stock on 2026-10-12.",
+      "The transaction was executed at a price of $168.97 per share, for a total value of approximately $202,764.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — GWRE Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "GWRE",
+      "Guidewire Software, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
     "slug": "braemar-hotels-resorts-inc-bhr-bhr-pb-bhr-pd-8k-entry-into-a-material-definitive-agreeme-2026-10-08-gw9k0",
     "title": "Braemar Hotels & Resorts Inc.  (BHR, BHR-PB, BHR-PD) Discloses Entry into a material definitive agreement in New SEC Filing",
     "dek": "Braemar Hotels & Resorts Inc.  (BHR, BHR-PB, BHR-PD) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-08.",
