@@ -1,5 +1,314 @@
 [
   {
+    "slug": "afl-insider-sale-japan-post-holdings-co-ltd-2026-10-19-09-00-11-2ujm6",
+    "title": "Aflac Inc Insider Selling: Japan Post Holdings Co., Ltd. Trims Stake",
+    "dek": "Japan Post Holdings Co., Ltd. (10%) sold 113,611 shares of Aflac Inc, valued at approximately $13.5 million.",
+    "category": "insider-trading",
+    "ticker": "AFL",
+    "companyName": "Aflac Inc",
+    "publishedAt": "2026-10-19T13:03:22.787Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Japan Post Holdings Co., Ltd., 10% at Aflac Inc (AFL), sold 113,611 shares of company stock on 2026-10-15.",
+      "The transaction was executed at a price of $118.53 per share, for a total value of approximately $13.5 million.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — AFL Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "AFL",
+      "Aflac Inc",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "bke-insider-sale-bill-fairfield-l-2026-10-19-08-51-21-9knut",
+    "title": "Dir at Buckle Inc Sells $394,190 in Stock",
+    "dek": "Bill Fairfield L (Dir) sold 8,500 shares of Buckle Inc, valued at approximately $394,190.",
+    "category": "insider-trading",
+    "ticker": "BKE",
+    "companyName": "Buckle Inc",
+    "publishedAt": "2026-10-19T12:41:22.787Z",
+    "byline": "Max I.",
+    "body": [
+      "Bill Fairfield L, who serves as Dir at Buckle Inc (BKE), sold 8,500 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $46.38 per share, for a total value of approximately $394,190.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — BKE Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "BKE",
+      "Buckle Inc",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "pbr-insider-sale-marcelo-weick-pogliese-2026-10-19-08-50-53-6hc0y",
+    "title": "Marcelo Weick Pogliese, Dir at Petrobras - Petroleo Brasileiro Sa, Sells Shares Worth $2,609",
+    "dek": "Marcelo Weick Pogliese (Dir) sold 271 shares of Petrobras - Petroleo Brasileiro Sa, valued at approximately $2,609.",
+    "category": "insider-trading",
+    "ticker": "PBR",
+    "companyName": "Petrobras - Petroleo Brasileiro Sa",
+    "publishedAt": "2026-10-19T12:19:22.787Z",
+    "byline": "Max I.",
+    "body": [
+      "Petrobras - Petroleo Brasileiro Sa (PBR) disclosed that Marcelo Weick Pogliese, who holds the position of Dir at the company, was involved in selling 271 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $9.63 per share, for a total value of approximately $2,609.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — PBR Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "PBR",
+      "Petrobras - Petroleo Brasileiro Sa",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "api-insider-buy-bin-zhao-2026-10-19-08-36-56-1daab",
+    "title": "Bin Zhao, CEO at Agora, Inc., Buys Shares Worth $76,930",
+    "dek": "Bin Zhao (CEO) purchased 17,345 shares of Agora, Inc., valued at approximately $76,930.",
+    "category": "insider-trading",
+    "ticker": "API",
+    "companyName": "Agora, Inc.",
+    "publishedAt": "2026-10-19T11:57:22.787Z",
+    "byline": "Max I.",
+    "body": [
+      "Agora, Inc. (API) disclosed that Bin Zhao, who holds the position of CEO at the company, was involved in buying 17,345 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $4.44 per share, for a total value of approximately $76,930.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — API Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "API",
+      "Agora, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "uxin-insider-buy-kun-dai-2026-10-19-08-00-04-m6i04",
+    "title": "Kun Dai, CEO at Uxin Ltd, Buys Shares Worth $2,616",
+    "dek": "Kun Dai (CEO) purchased 2,548 shares of Uxin Ltd, valued at approximately $2,616.",
+    "category": "insider-trading",
+    "ticker": "UXIN",
+    "companyName": "Uxin Ltd",
+    "publishedAt": "2026-10-19T11:35:22.787Z",
+    "byline": "Max I.",
+    "body": [
+      "Uxin Ltd (UXIN) disclosed that Kun Dai, who holds the position of CEO at the company, was involved in buying 2,548 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $1.03 per share, for a total value of approximately $2,616.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — UXIN Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "UXIN",
+      "Uxin Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "apld-insider-buy-wes-cummins-2026-10-19-07-11-41-msbtk",
+    "title": "CEO; COB at Applied Digital Corp. Buys $1.01 million in Stock",
+    "dek": "Wes Cummins (CEO; COB) purchased 55,803 shares of Applied Digital Corp., valued at approximately $1.01 million.",
+    "category": "insider-trading",
+    "ticker": "APLD",
+    "companyName": "Applied Digital Corp.",
+    "publishedAt": "2026-10-19T11:13:22.787Z",
+    "byline": "Max I.",
+    "body": [
+      "Wes Cummins, who serves as CEO; COB at Applied Digital Corp. (APLD), purchased 55,803 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $18.04 per share, for a total value of approximately $1.01 million.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — APLD Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "APLD",
+      "Applied Digital Corp.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "apld-insider-buy-jason-gechen-zhang-2026-10-19-07-06-33-nxdqk",
+    "title": "Jason Gechen Zhang, Pres at Applied Digital Corp., Buys Shares Worth $5.66 million",
+    "dek": "Jason Gechen Zhang (Pres) purchased 300,000 shares of Applied Digital Corp., valued at approximately $5.66 million.",
+    "category": "insider-trading",
+    "ticker": "APLD",
+    "companyName": "Applied Digital Corp.",
+    "publishedAt": "2026-10-19T10:51:22.787Z",
+    "byline": "Max I.",
+    "body": [
+      "Applied Digital Corp. (APLD) disclosed that Jason Gechen Zhang, who holds the position of Pres at the company, was involved in buying 300,000 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $18.86 per share, for a total value of approximately $5.66 million.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — APLD Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "APLD",
+      "Applied Digital Corp.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "nbis-insider-sale-boynton-john-wilson-iv-2026-10-19-07-02-33-xse2i",
+    "title": "Boynton John Wilson IV, Dir at Nebius Group N.V., Sells Shares Worth $1.29 million",
+    "dek": "Boynton John Wilson IV (Dir) sold 7,260 shares of Nebius Group N.V., valued at approximately $1.29 million.",
+    "category": "insider-trading",
+    "ticker": "NBIS",
+    "companyName": "Nebius Group N.V.",
+    "publishedAt": "2026-10-19T10:29:22.787Z",
+    "byline": "Max I.",
+    "body": [
+      "Nebius Group N.V. (NBIS) disclosed that Boynton John Wilson IV, who holds the position of Dir at the company, was involved in selling 7,260 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $177.63 per share, for a total value of approximately $1.29 million.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — NBIS Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "NBIS",
+      "Nebius Group N.V.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "clbt-insider-sale-david-barter-2026-10-19-06-56-11-k9lc5",
+    "title": "CFO at Cellebrite Di Ltd. Sells $136,069 in Stock",
+    "dek": "David Barter (CFO) sold 12,134 shares of Cellebrite Di Ltd., valued at approximately $136,069.",
+    "category": "insider-trading",
+    "ticker": "CLBT",
+    "companyName": "Cellebrite Di Ltd.",
+    "publishedAt": "2026-10-19T10:07:22.787Z",
+    "byline": "Max I.",
+    "body": [
+      "David Barter, who serves as CFO at Cellebrite Di Ltd. (CLBT), sold 12,134 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $11.21 per share, for a total value of approximately $136,069.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — CLBT Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "CLBT",
+      "Cellebrite Di Ltd.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "teamshares-inc-tms-tmsww-8k-entry-into-a-material-definitive-agreeme-2026-10-19-wd8hk",
+    "title": "Teamshares Inc  (TMS, TMSWW) Files 8-K Regarding Entry into a material definitive agreement",
+    "dek": "Teamshares Inc  (TMS, TMSWW) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-19.",
+    "category": "corporate-filings",
+    "companyName": "Teamshares Inc  (TMS, TMSWW)",
+    "publishedAt": "2026-10-19T09:56:22.787Z",
+    "byline": "Max I.",
+    "body": [
+      "Teamshares Inc  (TMS, TMSWW) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-10-19.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — Teamshares Inc  (TMS, TMSWW) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2048951&type=8-K",
+    "tags": [
+      "Teamshares Inc  (TMS, TMSWW)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "eltp-insider-buy-barry-dash-h-2026-10-19-06-05-37-o7zqh",
+    "title": "Dir at Elite Pharmaceuticals Inc /Nv/ Buys $25,980 in Stock",
+    "dek": "Barry Dash H (Dir) purchased 100,000 shares of Elite Pharmaceuticals Inc /Nv/, valued at approximately $25,980.",
+    "category": "insider-trading",
+    "ticker": "ELTP",
+    "companyName": "Elite Pharmaceuticals Inc /Nv/",
+    "publishedAt": "2026-10-19T09:45:22.787Z",
+    "byline": "Max I.",
+    "body": [
+      "Barry Dash H, who serves as Dir at Elite Pharmaceuticals Inc /Nv/ (ELTP), purchased 100,000 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $0.26 per share, for a total value of approximately $25,980.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — ELTP Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "ELTP",
+      "Elite Pharmaceuticals Inc /Nv/",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "se-insider-sale-yanjun-wang-2026-10-19-06-03-21-8jh13",
+    "title": "Yanjun Wang, CCO, GC at Sea Ltd, Sells Shares Worth $192,300",
+    "dek": "Yanjun Wang (CCO, GC) sold 2,000 shares of Sea Ltd, valued at approximately $192,300.",
+    "category": "insider-trading",
+    "ticker": "SE",
+    "companyName": "Sea Ltd",
+    "publishedAt": "2026-10-19T09:23:22.787Z",
+    "byline": "Max I.",
+    "body": [
+      "Sea Ltd (SE) disclosed that Yanjun Wang, who holds the position of CCO, GC at the company, was involved in selling 2,000 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $96.15 per share, for a total value of approximately $192,300.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — SE Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "SE",
+      "Sea Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "fngr-insider-buy-jolie-kahn-2026-10-19-06-03-01-t2d90",
+    "title": "Jolie Kahn, CEO at Fingermotion, Inc., Buys Shares Worth $2,550",
+    "dek": "Jolie Kahn (CEO) purchased 15,000 shares of Fingermotion, Inc., valued at approximately $2,550.",
+    "category": "insider-trading",
+    "ticker": "FNGR",
+    "companyName": "Fingermotion, Inc.",
+    "publishedAt": "2026-10-19T09:01:22.787Z",
+    "byline": "Max I.",
+    "body": [
+      "Fingermotion, Inc. (FNGR) disclosed that Jolie Kahn, who holds the position of CEO at the company, was involved in buying 15,000 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $0.17 per share, for a total value of approximately $2,550.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — FNGR Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "FNGR",
+      "Fingermotion, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
     "slug": "norwegian-cruise-line-holdings-ltd-nclh-8k-entry-into-a-material-definitive-agreeme-2026-10-15-80ht1",
     "title": "Norwegian Cruise Line Holdings Ltd.  (NCLH) Files 8-K Regarding Entry into a material definitive agreement",
     "dek": "Norwegian Cruise Line Holdings Ltd.  (NCLH) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-15.",
