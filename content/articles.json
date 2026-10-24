@@ -1,5 +1,305 @@
 [
   {
+    "slug": "bpre-insider-buy-jordan-ruddy-b-2026-10-23-21-34-10-lviep",
+    "title": "Jordan Ruddy B., Pres at Bluerock Private Real Estate Fund, Buys Shares Worth $24,987",
+    "dek": "Jordan Ruddy B. (Pres) purchased 2,040 shares of Bluerock Private Real Estate Fund, valued at approximately $24,987.",
+    "category": "insider-trading",
+    "ticker": "BPRE",
+    "companyName": "Bluerock Private Real Estate Fund",
+    "publishedAt": "2026-10-24T13:01:25.264Z",
+    "byline": "Max I.",
+    "body": [
+      "Bluerock Private Real Estate Fund (BPRE) disclosed that Jordan Ruddy B., who holds the position of Pres at the company, was involved in buying 2,040 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $12.25 per share, for a total value of approximately $24,987.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — BPRE Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "BPRE",
+      "Bluerock Private Real Estate Fund",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "aptevo-therapeutics-inc-apvo-8k-entry-into-a-material-definitive-agreeme-2026-10-23-b53rx",
+    "title": "SEC Filing: Aptevo Therapeutics Inc.  (APVO) Reports Entry into a material definitive agreement",
+    "dek": "Aptevo Therapeutics Inc.  (APVO) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-23.",
+    "category": "corporate-filings",
+    "companyName": "Aptevo Therapeutics Inc.  (APVO)",
+    "publishedAt": "2026-10-24T12:50:25.264Z",
+    "byline": "Max I.",
+    "body": [
+      "Aptevo Therapeutics Inc.  (APVO) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-10-23.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — Aptevo Therapeutics Inc.  (APVO) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1671584&type=8-K",
+    "tags": [
+      "Aptevo Therapeutics Inc.  (APVO)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "ntra-insider-sale-jonathan-sheena-2026-10-23-21-25-04-364gd",
+    "title": "Jonathan Sheena, CO-FOUNDER at Natera, Inc., Sells Shares Worth $1.29 million",
+    "dek": "Jonathan Sheena (CO-FOUNDER) sold 3,150 shares of Natera, Inc., valued at approximately $1.29 million.",
+    "category": "insider-trading",
+    "ticker": "NTRA",
+    "companyName": "Natera, Inc.",
+    "publishedAt": "2026-10-24T12:39:25.264Z",
+    "byline": "Max I.",
+    "body": [
+      "Natera, Inc. (NTRA) disclosed that Jonathan Sheena, who holds the position of CO-FOUNDER at the company, was involved in selling 3,150 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $410.55 per share, for a total value of approximately $1.29 million.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — NTRA Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "NTRA",
+      "Natera, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "darden-restaurants-inc-dri-8k-entry-into-a-material-definitive-agreeme-2026-10-23-z4xwv",
+    "title": "DARDEN RESTAURANTS INC  (DRI) Files 8-K Regarding Entry into a material definitive agreement",
+    "dek": "DARDEN RESTAURANTS INC  (DRI) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-23.",
+    "category": "corporate-filings",
+    "companyName": "DARDEN RESTAURANTS INC  (DRI)",
+    "publishedAt": "2026-10-24T12:28:25.264Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by DARDEN RESTAURANTS INC  (DRI) with the SEC on 2026-10-23 discloses entry into a material definitive agreement.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — DARDEN RESTAURANTS INC  (DRI) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=940944&type=8-K",
+    "tags": [
+      "DARDEN RESTAURANTS INC  (DRI)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "nmhi-insider-buy-kathleen-theresa-adair-2026-10-23-21-24-50-9o7be",
+    "title": "10% at Nature'S Miracle Holding Inc. Buys $6,958 in Stock",
+    "dek": "Kathleen Theresa Adair (10%) purchased 11,600,000 shares of Nature'S Miracle Holding Inc., valued at approximately $6,958.",
+    "category": "insider-trading",
+    "ticker": "NMHI",
+    "companyName": "Nature'S Miracle Holding Inc.",
+    "publishedAt": "2026-10-24T12:17:25.264Z",
+    "byline": "Max I.",
+    "body": [
+      "Kathleen Theresa Adair, who serves as 10% at Nature'S Miracle Holding Inc. (NMHI), purchased 11,600,000 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The total value of the transaction was approximately $6,958.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — NMHI Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "NMHI",
+      "Nature'S Miracle Holding Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "nmhi-insider-buy-kathleen-theresa-adair-2026-10-23-20-00-31-klpbv",
+    "title": "Nature'S Miracle Holding Inc. Insider Buying: Kathleen Theresa Adair Adds Stake",
+    "dek": "Kathleen Theresa Adair (10%) purchased 17,000,000 shares of Nature'S Miracle Holding Inc., valued at approximately $11,188.",
+    "category": "insider-trading",
+    "ticker": "NMHI",
+    "companyName": "Nature'S Miracle Holding Inc.",
+    "publishedAt": "2026-10-24T11:55:25.264Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Kathleen Theresa Adair, 10% at Nature'S Miracle Holding Inc. (NMHI), purchased 17,000,000 shares of company stock on 2026-08-18.",
+      "The total value of the transaction was approximately $11,188.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — NMHI Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "NMHI",
+      "Nature'S Miracle Holding Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "crwd-insider-sale-george-kurtz-2026-10-23-20-00-14-2xbns",
+    "title": "Crowdstrike Holdings, Inc. Insider Selling: George Kurtz Trims Stake",
+    "dek": "George Kurtz (Pres, CEO) sold 20,000 shares of Crowdstrike Holdings, Inc., valued at approximately $4.76 million.",
+    "category": "insider-trading",
+    "ticker": "CRWD",
+    "companyName": "Crowdstrike Holdings, Inc.",
+    "publishedAt": "2026-10-24T11:33:25.264Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows George Kurtz, Pres, CEO at Crowdstrike Holdings, Inc. (CRWD), sold 20,000 shares of company stock on 2026-10-21.",
+      "The transaction was executed at a price of $238.09 per share, for a total value of approximately $4.76 million.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — CRWD Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "CRWD",
+      "Crowdstrike Holdings, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "pubm-insider-sale-rajeev-goel-k-2026-10-23-19-38-32-kg6mi",
+    "title": "Pubmatic, Inc. Insider Selling: Rajeev Goel K. Trims Stake",
+    "dek": "Rajeev Goel K. (CEO, 10%) sold 50,021 shares of Pubmatic, Inc., valued at approximately $863,237.",
+    "category": "insider-trading",
+    "ticker": "PUBM",
+    "companyName": "Pubmatic, Inc.",
+    "publishedAt": "2026-10-24T11:11:25.264Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Rajeev Goel K., CEO, 10% at Pubmatic, Inc. (PUBM), sold 50,021 shares of company stock on 2026-10-22.",
+      "The transaction was executed at a price of $17.26 per share, for a total value of approximately $863,237.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — PUBM Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "PUBM",
+      "Pubmatic, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "almr-insider-sale-qiming-corporate-gp-vi-ltd-2026-10-23-19-35-29-eb6h4",
+    "title": "10% at Alamar Biosciences, Inc. Sells $10.3 million in Stock",
+    "dek": "Qiming Corporate Gp Vi, Ltd. (10%) sold 342,626 shares of Alamar Biosciences, Inc., valued at approximately $10.3 million.",
+    "category": "insider-trading",
+    "ticker": "ALMR",
+    "companyName": "Alamar Biosciences, Inc.",
+    "publishedAt": "2026-10-24T10:49:25.264Z",
+    "byline": "Max I.",
+    "body": [
+      "Qiming Corporate Gp Vi, Ltd., who serves as 10% at Alamar Biosciences, Inc. (ALMR), sold 342,626 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $29.93 per share, for a total value of approximately $10.3 million.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — ALMR Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "ALMR",
+      "Alamar Biosciences, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "vinp-insider-sale-fernando-lovisotto-2026-10-23-19-04-37-kshh3",
+    "title": "Head of Global IP, S at Vinci Compass Investments Ltd. Sells $368,576 in Stock",
+    "dek": "Fernando Lovisotto (Head of Global IP, S) sold 33,110 shares of Vinci Compass Investments Ltd., valued at approximately $368,576.",
+    "category": "insider-trading",
+    "ticker": "VINP",
+    "companyName": "Vinci Compass Investments Ltd.",
+    "publishedAt": "2026-10-24T10:27:25.264Z",
+    "byline": "Max I.",
+    "body": [
+      "Fernando Lovisotto, who serves as Head of Global IP, S at Vinci Compass Investments Ltd. (VINP), sold 33,110 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $11.13 per share, for a total value of approximately $368,576.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — VINP Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "VINP",
+      "Vinci Compass Investments Ltd.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "conduent-inc-cndt-8k-entry-into-a-material-definitive-agreeme-2026-10-23-eb4at",
+    "title": "CONDUENT Inc  (CNDT) Files 8-K Regarding Entry into a material definitive agreement",
+    "dek": "CONDUENT Inc  (CNDT) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-23.",
+    "category": "corporate-filings",
+    "companyName": "CONDUENT Inc  (CNDT)",
+    "publishedAt": "2026-10-24T10:16:25.264Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by CONDUENT Inc  (CNDT) with the SEC on 2026-10-23 discloses entry into a material definitive agreement.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — CONDUENT Inc  (CNDT) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1677703&type=8-K",
+    "tags": [
+      "CONDUENT Inc  (CNDT)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "vinp-insider-sale-zaremba-bruno-augusto-sacchi-2026-10-23-19-02-53-uyutz",
+    "title": "Pres of Finance, Operations at Vinci Compass Investments Ltd. Sells $480,484 in Stock",
+    "dek": "Zaremba Bruno Augusto Sacchi (Pres of Finance, Operations) sold 43,075 shares of Vinci Compass Investments Ltd., valued at approximately $480,484.",
+    "category": "insider-trading",
+    "ticker": "VINP",
+    "companyName": "Vinci Compass Investments Ltd.",
+    "publishedAt": "2026-10-24T10:05:25.264Z",
+    "byline": "Max I.",
+    "body": [
+      "Zaremba Bruno Augusto Sacchi, who serves as Pres of Finance, Operations at Vinci Compass Investments Ltd. (VINP), sold 43,075 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $11.15 per share, for a total value of approximately $480,484.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — VINP Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "VINP",
+      "Vinci Compass Investments Ltd.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "data-i-o-corp-daio-8k-entry-into-a-material-definitive-agreeme-2026-10-22-z2hft",
+    "title": "DATA I/O CORP  (DAIO) Discloses Entry into a material definitive agreement in New SEC Filing",
+    "dek": "DATA I/O CORP  (DAIO) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-22.",
+    "category": "corporate-filings",
+    "companyName": "DATA I/O CORP  (DAIO)",
+    "publishedAt": "2026-10-24T09:54:25.264Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by DATA I/O CORP  (DAIO) with the SEC on 2026-10-22 discloses entry into a material definitive agreement.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — DATA I/O CORP  (DAIO) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=351998&type=8-K",
+    "tags": [
+      "DATA I/O CORP  (DAIO)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
     "slug": "uxin-insider-buy-kun-dai-2026-10-23-08-25-19-7mpsj",
     "title": "Uxin Ltd Insider Buying: Kun Dai Adds Stake",
     "dek": "Kun Dai (CEO) purchased 7,000 shares of Uxin Ltd, valued at approximately $6,231.",
