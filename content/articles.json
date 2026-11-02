@@ -1,5 +1,275 @@
 [
   {
+    "slug": "lstr-insider-buy-frank-lonegro-a-2026-11-02-07-54-42-xdmu2",
+    "title": "Pres, CEO at Landstar System Inc Buys $714,619 in Stock",
+    "dek": "Frank Lonegro A (Pres, CEO) purchased 5,000 shares of Landstar System Inc, valued at approximately $714,619.",
+    "category": "insider-trading",
+    "ticker": "LSTR",
+    "companyName": "Landstar System Inc",
+    "publishedAt": "2026-11-02T13:02:32.091Z",
+    "byline": "Max I.",
+    "body": [
+      "Frank Lonegro A, who serves as Pres, CEO at Landstar System Inc (LSTR), purchased 5,000 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $142.92 per share, for a total value of approximately $714,619.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — LSTR Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "LSTR",
+      "Landstar System Inc",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "stkh-insider-buy-yaron-kaiser-2026-11-02-07-30-15-y7dv6",
+    "title": "Steakholder Foods Ltd. Insider Buying: Yaron Kaiser Adds Stake",
+    "dek": "Yaron Kaiser (Dir) purchased 56,432 shares of Steakholder Foods Ltd., valued at approximately $23,190.",
+    "category": "insider-trading",
+    "ticker": "STKH",
+    "companyName": "Steakholder Foods Ltd.",
+    "publishedAt": "2026-11-02T12:40:32.091Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Yaron Kaiser, Dir at Steakholder Foods Ltd. (STKH), purchased 56,432 shares of company stock on 2026-10-29.",
+      "The transaction was executed at a price of $0.41 per share, for a total value of approximately $23,190.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — STKH Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "STKH",
+      "Steakholder Foods Ltd.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "nbis-insider-sale-boynton-john-wilson-iv-2026-11-02-06-49-07-4dn43",
+    "title": "Boynton John Wilson IV, Dir at Nebius Group N.V., Sells Shares Worth $57,632",
+    "dek": "Boynton John Wilson IV (Dir) sold 333 shares of Nebius Group N.V., valued at approximately $57,632.",
+    "category": "insider-trading",
+    "ticker": "NBIS",
+    "companyName": "Nebius Group N.V.",
+    "publishedAt": "2026-11-02T12:18:32.091Z",
+    "byline": "Max I.",
+    "body": [
+      "Nebius Group N.V. (NBIS) disclosed that Boynton John Wilson IV, who holds the position of Dir at the company, was involved in selling 333 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $173.07 per share, for a total value of approximately $57,632.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — NBIS Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "NBIS",
+      "Nebius Group N.V.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "stkh-insider-buy-arik-kaufman-2026-11-02-06-39-13-o593m",
+    "title": "Arik Kaufman, CEO at Steakholder Foods Ltd., Buys Shares Worth $38,167",
+    "dek": "Arik Kaufman (CEO) purchased 96,826 shares of Steakholder Foods Ltd., valued at approximately $38,167.",
+    "category": "insider-trading",
+    "ticker": "STKH",
+    "companyName": "Steakholder Foods Ltd.",
+    "publishedAt": "2026-11-02T11:56:32.091Z",
+    "byline": "Max I.",
+    "body": [
+      "Steakholder Foods Ltd. (STKH) disclosed that Arik Kaufman, who holds the position of CEO at the company, was involved in buying 96,826 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $0.39 per share, for a total value of approximately $38,167.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — STKH Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "STKH",
+      "Steakholder Foods Ltd.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "api-insider-buy-bin-zhao-2026-11-02-06-18-09-fr3xt",
+    "title": "Bin Zhao, CEO at Agora, Inc., Buys Shares Worth $81,722",
+    "dek": "Bin Zhao (CEO) purchased 18,524 shares of Agora, Inc., valued at approximately $81,722.",
+    "category": "insider-trading",
+    "ticker": "API",
+    "companyName": "Agora, Inc.",
+    "publishedAt": "2026-11-02T11:34:32.091Z",
+    "byline": "Max I.",
+    "body": [
+      "Agora, Inc. (API) disclosed that Bin Zhao, who holds the position of CEO at the company, was involved in buying 18,524 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $4.41 per share, for a total value of approximately $81,722.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — API Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "API",
+      "Agora, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "se-insider-sale-yanjun-wang-2026-11-02-06-04-24-p10wx",
+    "title": "Yanjun Wang, CCO, GC at Sea Ltd, Sells Shares Worth $120,720",
+    "dek": "Yanjun Wang (CCO, GC) sold 1,600 shares of Sea Ltd, valued at approximately $120,720.",
+    "category": "insider-trading",
+    "ticker": "SE",
+    "companyName": "Sea Ltd",
+    "publishedAt": "2026-11-02T11:12:32.091Z",
+    "byline": "Max I.",
+    "body": [
+      "Sea Ltd (SE) disclosed that Yanjun Wang, who holds the position of CCO, GC at the company, was involved in selling 1,600 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $75.45 per share, for a total value of approximately $120,720.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — SE Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "SE",
+      "Sea Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "americas-carmart-inc-crmt-8k-entry-into-a-material-definitive-agreeme-2026-11-02-w39sc",
+    "title": "AMERICAS CARMART INC  (CRMT) Files 8-K Regarding Entry into a material definitive agreement",
+    "dek": "AMERICAS CARMART INC  (CRMT) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-02.",
+    "category": "corporate-filings",
+    "companyName": "AMERICAS CARMART INC  (CRMT)",
+    "publishedAt": "2026-11-02T09:55:32.091Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by AMERICAS CARMART INC  (CRMT) with the SEC on 2026-11-02 discloses entry into a material definitive agreement.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — AMERICAS CARMART INC  (CRMT) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=799850&type=8-K",
+    "tags": [
+      "AMERICAS CARMART INC  (CRMT)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "sow-good-inc-sowg-8k-entry-into-a-material-definitive-agreeme-2026-10-30-afa8b",
+    "title": "Sow Good Inc.  (SOWG) Discloses Entry into a material definitive agreement in New SEC Filing",
+    "dek": "Sow Good Inc.  (SOWG) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-30.",
+    "category": "corporate-filings",
+    "companyName": "Sow Good Inc.  (SOWG)",
+    "publishedAt": "2026-11-02T09:33:32.091Z",
+    "byline": "Max I.",
+    "body": [
+      "Sow Good Inc.  (SOWG) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-10-30.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — Sow Good Inc.  (SOWG) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1490161&type=8-K",
+    "tags": [
+      "Sow Good Inc.  (SOWG)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "enact-holdings-inc-act-8k-an-executive-or-director-departure-2026-10-30-e6e9r",
+    "title": "Enact Holdings, Inc.  (ACT) Files 8-K Regarding An executive or director departure",
+    "dek": "Enact Holdings, Inc.  (ACT) disclosed an executive or director departure in a Form 8-K filed with the SEC on 2026-10-30.",
+    "category": "corporate-filings",
+    "companyName": "Enact Holdings, Inc.  (ACT)",
+    "publishedAt": "2026-11-02T07:21:32.091Z",
+    "byline": "Max I.",
+    "body": [
+      "Enact Holdings, Inc.  (ACT) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing an executive or director departure, according to the filing dated 2026-10-30.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — Enact Holdings, Inc.  (ACT) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1823529&type=8-K",
+    "tags": [
+      "Enact Holdings, Inc.  (ACT)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "sidus-space-inc-sidu-8k-an-executive-or-director-departure-2026-10-29-vdlet",
+    "title": "Sidus Space Inc.  (SIDU) Discloses An executive or director departure in New SEC Filing",
+    "dek": "Sidus Space Inc.  (SIDU) disclosed an executive or director departure in a Form 8-K filed with the SEC on 2026-10-29.",
+    "category": "corporate-filings",
+    "companyName": "Sidus Space Inc.  (SIDU)",
+    "publishedAt": "2026-11-02T06:59:32.091Z",
+    "byline": "Max I.",
+    "body": [
+      "Sidus Space Inc.  (SIDU) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing an executive or director departure, according to the filing dated 2026-10-29.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — Sidus Space Inc.  (SIDU) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1879726&type=8-K",
+    "tags": [
+      "Sidus Space Inc.  (SIDU)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "general-motors-co-gm-8k-an-executive-or-director-departure-2026-10-29-qa0s9",
+    "title": "General Motors Co  (GM) Discloses An executive or director departure in New SEC Filing",
+    "dek": "General Motors Co  (GM) disclosed an executive or director departure in a Form 8-K filed with the SEC on 2026-10-29.",
+    "category": "corporate-filings",
+    "companyName": "General Motors Co  (GM)",
+    "publishedAt": "2026-11-02T06:37:32.091Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by General Motors Co  (GM) with the SEC on 2026-10-29 discloses an executive or director departure.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — General Motors Co  (GM) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1467858&type=8-K",
+    "tags": [
+      "General Motors Co  (GM)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "lionsgate-studios-corp-lion-8k-an-executive-or-director-departure-2026-10-29-r6sc1",
+    "title": "SEC Filing: Lionsgate Studios Corp.  (LION) Reports An executive or director departure",
+    "dek": "Lionsgate Studios Corp.  (LION) disclosed an executive or director departure in a Form 8-K filed with the SEC on 2026-10-29.",
+    "category": "corporate-filings",
+    "companyName": "Lionsgate Studios Corp.  (LION)",
+    "publishedAt": "2026-11-02T06:15:32.091Z",
+    "byline": "Max I.",
+    "body": [
+      "Lionsgate Studios Corp.  (LION) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing an executive or director departure, according to the filing dated 2026-10-29.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — Lionsgate Studios Corp.  (LION) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2052959&type=8-K",
+    "tags": [
+      "Lionsgate Studios Corp.  (LION)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
     "slug": "enova-international-inc-enva-8k-entry-into-a-material-definitive-agreeme-2026-10-30-nepex",
     "title": "Enova International, Inc.  (ENVA) Discloses Entry into a material definitive agreement in New SEC Filing",
     "dek": "Enova International, Inc.  (ENVA) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-10-30.",
