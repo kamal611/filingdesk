@@ -1,5 +1,305 @@
 [
   {
+    "slug": "api-insider-buy-bin-zhao-2026-11-09-07-57-31-qshl8",
+    "title": "Bin Zhao, CEO at Agora, Inc., Buys Shares Worth $123,109",
+    "dek": "Bin Zhao (CEO) purchased 28,665 shares of Agora, Inc., valued at approximately $123,109.",
+    "category": "insider-trading",
+    "ticker": "API",
+    "companyName": "Agora, Inc.",
+    "publishedAt": "2026-11-09T13:04:10.035Z",
+    "byline": "Max I.",
+    "body": [
+      "Agora, Inc. (API) disclosed that Bin Zhao, who holds the position of CEO at the company, was involved in buying 28,665 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $4.29 per share, for a total value of approximately $123,109.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — API Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "API",
+      "Agora, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "audc-insider-buy-shabtai-adlersberg-2026-11-09-07-55-51-dxkmm",
+    "title": "Pres, CEO at Audiocodes Ltd Buys $126,140 in Stock",
+    "dek": "Shabtai Adlersberg (Pres, CEO) purchased 15,939 shares of Audiocodes Ltd, valued at approximately $126,140.",
+    "category": "insider-trading",
+    "ticker": "AUDC",
+    "companyName": "Audiocodes Ltd",
+    "publishedAt": "2026-11-09T12:42:10.035Z",
+    "byline": "Max I.",
+    "body": [
+      "Shabtai Adlersberg, who serves as Pres, CEO at Audiocodes Ltd (AUDC), purchased 15,939 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $7.91 per share, for a total value of approximately $126,140.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — AUDC Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "AUDC",
+      "Audiocodes Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "mtdr-insider-buy-paul-harvey-w-2026-11-09-07-43-00-fdj7a",
+    "title": "Dir at Matador Resources Co Buys $26,360 in Stock",
+    "dek": "Paul Harvey W (Dir) purchased 500 shares of Matador Resources Co, valued at approximately $26,360.",
+    "category": "insider-trading",
+    "ticker": "MTDR",
+    "companyName": "Matador Resources Co",
+    "publishedAt": "2026-11-09T12:20:10.035Z",
+    "byline": "Max I.",
+    "body": [
+      "Paul Harvey W, who serves as Dir at Matador Resources Co (MTDR), purchased 500 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $52.72 per share, for a total value of approximately $26,360.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — MTDR Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "MTDR",
+      "Matador Resources Co",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "edesa-biotech-inc-edsa-8k-entry-into-a-material-definitive-agreeme-2026-11-09-8ua31",
+    "title": "SEC Filing: Edesa Biotech, Inc.  (EDSA) Reports Entry into a material definitive agreement",
+    "dek": "Edesa Biotech, Inc.  (EDSA) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-09.",
+    "category": "corporate-filings",
+    "companyName": "Edesa Biotech, Inc.  (EDSA)",
+    "publishedAt": "2026-11-09T12:09:10.035Z",
+    "byline": "Max I.",
+    "body": [
+      "Edesa Biotech, Inc.  (EDSA) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-11-09.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — Edesa Biotech, Inc.  (EDSA) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1540159&type=8-K",
+    "tags": [
+      "Edesa Biotech, Inc.  (EDSA)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "mtdr-insider-buy-joseph-wm-foran-2026-11-09-07-41-53-mpwnh",
+    "title": "COB, CEO at Matador Resources Co Buys $256,800 in Stock",
+    "dek": "Joseph Wm Foran (COB, CEO) purchased 5,000 shares of Matador Resources Co, valued at approximately $256,800.",
+    "category": "insider-trading",
+    "ticker": "MTDR",
+    "companyName": "Matador Resources Co",
+    "publishedAt": "2026-11-09T11:58:10.035Z",
+    "byline": "Max I.",
+    "body": [
+      "Joseph Wm Foran, who serves as COB, CEO at Matador Resources Co (MTDR), purchased 5,000 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $51.36 per share, for a total value of approximately $256,800.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — MTDR Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "MTDR",
+      "Matador Resources Co",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "flut-insider-sale-robert-coldrake-2026-11-09-06-55-16-epene",
+    "title": "Flutter Entertainment Plc Insider Selling: Robert Coldrake Trims Stake",
+    "dek": "Robert Coldrake (CFO) sold 991 shares of Flutter Entertainment Plc, valued at approximately $81,601.",
+    "category": "insider-trading",
+    "ticker": "FLUT",
+    "companyName": "Flutter Entertainment Plc",
+    "publishedAt": "2026-11-09T11:36:10.035Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Robert Coldrake, CFO at Flutter Entertainment Plc (FLUT), sold 991 shares of company stock on 2026-11-05.",
+      "The transaction was executed at a price of $82.34 per share, for a total value of approximately $81,601.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — FLUT Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "FLUT",
+      "Flutter Entertainment Plc",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "flut-insider-sale-daniel-mark-taylor-2026-11-09-06-55-08-4sv5g",
+    "title": "Flutter Entertainment Plc Insider Selling: Daniel Mark Taylor Trims Stake",
+    "dek": "Daniel Mark Taylor (CEO) sold 3,727 shares of Flutter Entertainment Plc, valued at approximately $306,887.",
+    "category": "insider-trading",
+    "ticker": "FLUT",
+    "companyName": "Flutter Entertainment Plc",
+    "publishedAt": "2026-11-09T11:14:10.035Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Daniel Mark Taylor, CEO at Flutter Entertainment Plc (FLUT), sold 3,727 shares of company stock on 2026-11-05.",
+      "The transaction was executed at a price of $82.34 per share, for a total value of approximately $306,887.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — FLUT Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "FLUT",
+      "Flutter Entertainment Plc",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "msc-insider-buy-ho-lawrence-yau-lung-2026-11-09-06-30-03-3l050",
+    "title": "Ho Lawrence Yau Lung, Dir at Studio City International Holdings Ltd, Buys Shares Worth $19,928",
+    "dek": "Ho Lawrence Yau Lung (Dir) purchased 72,248 shares of Studio City International Holdings Ltd, valued at approximately $19,928.",
+    "category": "insider-trading",
+    "ticker": "MSC",
+    "companyName": "Studio City International Holdings Ltd",
+    "publishedAt": "2026-11-09T10:52:10.035Z",
+    "byline": "Max I.",
+    "body": [
+      "Studio City International Holdings Ltd (MSC) disclosed that Ho Lawrence Yau Lung, who holds the position of Dir at the company, was involved in buying 72,248 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $0.28 per share, for a total value of approximately $19,928.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — MSC Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "MSC",
+      "Studio City International Holdings Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "corebridge-financial-inc-crbd-crbg-8k-entry-into-a-material-definitive-agreeme-2026-11-09-9khpi",
+    "title": "SEC Filing: Corebridge Financial, Inc.  (CRBD, CRBG) Reports Entry into a material definitive agreement",
+    "dek": "Corebridge Financial, Inc.  (CRBD, CRBG) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-09.",
+    "category": "corporate-filings",
+    "companyName": "Corebridge Financial, Inc.  (CRBD, CRBG)",
+    "publishedAt": "2026-11-09T10:41:10.035Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by Corebridge Financial, Inc.  (CRBD, CRBG) with the SEC on 2026-11-09 discloses entry into a material definitive agreement.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — Corebridge Financial, Inc.  (CRBD, CRBG) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1889539&type=8-K",
+    "tags": [
+      "Corebridge Financial, Inc.  (CRBD, CRBG)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "yumc-insider-sale-leila-zhang-2026-11-09-06-17-06-j7231",
+    "title": "CTO at Yum China Holdings, Inc. Sells $252,451 in Stock",
+    "dek": "Leila Zhang (CTO) sold 4,994 shares of Yum China Holdings, Inc., valued at approximately $252,451.",
+    "category": "insider-trading",
+    "ticker": "YUMC",
+    "companyName": "Yum China Holdings, Inc.",
+    "publishedAt": "2026-11-09T10:30:10.035Z",
+    "byline": "Max I.",
+    "body": [
+      "Leila Zhang, who serves as CTO at Yum China Holdings, Inc. (YUMC), sold 4,994 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $50.55 per share, for a total value of approximately $252,451.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — YUMC Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "YUMC",
+      "Yum China Holdings, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "americas-carmart-inc-crmt-8k-entry-into-a-material-definitive-agreeme-2026-11-05-9tuep",
+    "title": "AMERICAS CARMART INC  (CRMT) Files 8-K Regarding Entry into a material definitive agreement",
+    "dek": "AMERICAS CARMART INC  (CRMT) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-05.",
+    "category": "corporate-filings",
+    "companyName": "AMERICAS CARMART INC  (CRMT)",
+    "publishedAt": "2026-11-09T10:19:10.035Z",
+    "byline": "Max I.",
+    "body": [
+      "AMERICAS CARMART INC  (CRMT) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-11-05.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — AMERICAS CARMART INC  (CRMT) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=799850&type=8-K",
+    "tags": [
+      "AMERICAS CARMART INC  (CRMT)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "yumc-insider-sale-warton-wang-2026-11-09-06-15-45-2ldw3",
+    "title": "GM, KFC at Yum China Holdings, Inc. Sells $465,210 in Stock",
+    "dek": "Warton Wang (GM, KFC) sold 9,193 shares of Yum China Holdings, Inc., valued at approximately $465,210.",
+    "category": "insider-trading",
+    "ticker": "YUMC",
+    "companyName": "Yum China Holdings, Inc.",
+    "publishedAt": "2026-11-09T10:08:10.035Z",
+    "byline": "Max I.",
+    "body": [
+      "Warton Wang, who serves as GM, KFC at Yum China Holdings, Inc. (YUMC), sold 9,193 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $50.60 per share, for a total value of approximately $465,210.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — YUMC Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "YUMC",
+      "Yum China Holdings, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "cnl-strategic-residential-credit-inc-8k-entry-into-a-material-definitive-agreeme-2026-11-06-mj1mr",
+    "title": "CNL Strategic Residential Credit, Inc. Files 8-K Regarding Entry into a material definitive agreement",
+    "dek": "CNL Strategic Residential Credit, Inc. disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-06.",
+    "category": "corporate-filings",
+    "companyName": "CNL Strategic Residential Credit, Inc.",
+    "publishedAt": "2026-11-09T09:57:10.035Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by CNL Strategic Residential Credit, Inc. with the SEC on 2026-11-06 discloses entry into a material definitive agreement.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — CNL Strategic Residential Credit, Inc. Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2066337&type=8-K",
+    "tags": [
+      "CNL Strategic Residential Credit, Inc.",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
     "slug": "21shares-dogecoin-etf-tdog-8k-entry-into-a-material-definitive-agreeme-2026-11-06-2i5s3",
     "title": "SEC Filing: 21Shares Dogecoin ETF  (TDOG) Reports Entry into a material definitive agreement",
     "dek": "21Shares Dogecoin ETF  (TDOG) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-06.",
