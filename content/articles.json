@@ -1,5 +1,305 @@
 [
   {
+    "slug": "mtdr-insider-buy-monika-ehrman-u-2026-11-10-07-52-16-s2d1e",
+    "title": "Dir at Matador Resources Co Buys $16,984 in Stock",
+    "dek": "Monika Ehrman U (Dir) purchased 339 shares of Matador Resources Co, valued at approximately $16,984.",
+    "category": "insider-trading",
+    "ticker": "MTDR",
+    "companyName": "Matador Resources Co",
+    "publishedAt": "2026-11-10T13:02:35.822Z",
+    "byline": "Max I.",
+    "body": [
+      "Monika Ehrman U, who serves as Dir at Matador Resources Co (MTDR), purchased 339 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $50.10 per share, for a total value of approximately $16,984.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — MTDR Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "MTDR",
+      "Matador Resources Co",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "agco-insider-sale-dehner-torsten-rudolf-willi-2026-11-10-07-45-14-ytefx",
+    "title": "Agco Corp /De Insider Selling: Dehner Torsten Rudolf Willi Trims Stake",
+    "dek": "Dehner Torsten Rudolf Willi (SVP GM Fendt, Valtra) sold 27,393 shares of Agco Corp /De, valued at approximately $3.05 million.",
+    "category": "insider-trading",
+    "ticker": "AGCO",
+    "companyName": "Agco Corp /De",
+    "publishedAt": "2026-11-10T12:40:35.822Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Dehner Torsten Rudolf Willi, SVP GM Fendt, Valtra at Agco Corp /De (AGCO), sold 27,393 shares of company stock on 2026-11-06.",
+      "The transaction was executed at a price of $111.37 per share, for a total value of approximately $3.05 million.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — AGCO Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "AGCO",
+      "Agco Corp /De",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "codexis-inc-cdxs-8k-entry-into-a-material-definitive-agreeme-2026-11-10-9m41f",
+    "title": "SEC Filing: CODEXIS, INC.  (CDXS) Reports Entry into a material definitive agreement",
+    "dek": "CODEXIS, INC.  (CDXS) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-10.",
+    "category": "corporate-filings",
+    "companyName": "CODEXIS, INC.  (CDXS)",
+    "publishedAt": "2026-11-10T12:29:35.822Z",
+    "byline": "Max I.",
+    "body": [
+      "CODEXIS, INC.  (CDXS) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-11-10.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — CODEXIS, INC.  (CDXS) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1200375&type=8-K",
+    "tags": [
+      "CODEXIS, INC.  (CDXS)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "crh-insider-buy-richard-fearon-h-2026-11-10-07-42-57-6degg",
+    "title": "Crh Public Ltd Co Insider Buying: Richard Fearon H Adds Stake",
+    "dek": "Richard Fearon H (Dir) purchased 6,000 shares of Crh Public Ltd Co, valued at approximately $569,700.",
+    "category": "insider-trading",
+    "ticker": "CRH",
+    "companyName": "Crh Public Ltd Co",
+    "publishedAt": "2026-11-10T12:18:35.822Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Richard Fearon H, Dir at Crh Public Ltd Co (CRH), purchased 6,000 shares of company stock on 2026-11-06.",
+      "The transaction was executed at a price of $94.95 per share, for a total value of approximately $569,700.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — CRH Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "CRH",
+      "Crh Public Ltd Co",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "trox-insider-buy-peter-johnston-2026-11-10-07-31-02-coaif",
+    "title": "Dir at Tronox Holdings Plc Buys $52,600 in Stock",
+    "dek": "Peter Johnston (Dir) purchased 20,000 shares of Tronox Holdings Plc, valued at approximately $52,600.",
+    "category": "insider-trading",
+    "ticker": "TROX",
+    "companyName": "Tronox Holdings Plc",
+    "publishedAt": "2026-11-10T11:56:35.822Z",
+    "byline": "Max I.",
+    "body": [
+      "Peter Johnston, who serves as Dir at Tronox Holdings Plc (TROX), purchased 20,000 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $2.63 per share, for a total value of approximately $52,600.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — TROX Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "TROX",
+      "Tronox Holdings Plc",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "techprecision-corp-tpcs-8k-entry-into-a-material-definitive-agreeme-2026-11-09-5wuey",
+    "title": "TECHPRECISION CORP  (TPCS) Discloses Entry into a material definitive agreement in New SEC Filing",
+    "dek": "TECHPRECISION CORP  (TPCS) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-09.",
+    "category": "corporate-filings",
+    "companyName": "TECHPRECISION CORP  (TPCS)",
+    "publishedAt": "2026-11-10T11:45:35.822Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by TECHPRECISION CORP  (TPCS) with the SEC on 2026-11-09 discloses entry into a material definitive agreement.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — TECHPRECISION CORP  (TPCS) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1328792&type=8-K",
+    "tags": [
+      "TECHPRECISION CORP  (TPCS)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "tsm-insider-buy-shien-yang-wu-2026-11-10-06-41-42-cpkve",
+    "title": "Shien-Yang Wu, SVP at Taiwan Semiconductor Manufacturing Co Ltd, Buys Shares Worth $4,160",
+    "dek": "Shien-Yang Wu (SVP) purchased 59 shares of Taiwan Semiconductor Manufacturing Co Ltd, valued at approximately $4,160.",
+    "category": "insider-trading",
+    "ticker": "TSM",
+    "companyName": "Taiwan Semiconductor Manufacturing Co Ltd",
+    "publishedAt": "2026-11-10T11:34:35.822Z",
+    "byline": "Max I.",
+    "body": [
+      "Taiwan Semiconductor Manufacturing Co Ltd (TSM) disclosed that Shien-Yang Wu, who holds the position of SVP at the company, was involved in buying 59 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $70.50 per share, for a total value of approximately $4,160.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — TSM Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "TSM",
+      "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "tsm-insider-buy-chue-san-yoo-2026-11-10-06-41-34-gt2bb",
+    "title": "Chue-San Yoo, VP at Taiwan Semiconductor Manufacturing Co Ltd, Buys Shares Worth $3,807",
+    "dek": "Chue-San Yoo (VP) purchased 54 shares of Taiwan Semiconductor Manufacturing Co Ltd, valued at approximately $3,807.",
+    "category": "insider-trading",
+    "ticker": "TSM",
+    "companyName": "Taiwan Semiconductor Manufacturing Co Ltd",
+    "publishedAt": "2026-11-10T11:12:35.822Z",
+    "byline": "Max I.",
+    "body": [
+      "Taiwan Semiconductor Manufacturing Co Ltd (TSM) disclosed that Chue-San Yoo, who holds the position of VP at the company, was involved in buying 54 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $70.50 per share, for a total value of approximately $3,807.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — TSM Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "TSM",
+      "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "our-bond-inc-obai-8k-entry-into-a-material-definitive-agreeme-2026-11-09-w3con",
+    "title": "Our Bond, Inc.  (OBAI) Discloses Entry into a material definitive agreement in New SEC Filing",
+    "dek": "Our Bond, Inc.  (OBAI) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-09.",
+    "category": "corporate-filings",
+    "companyName": "Our Bond, Inc.  (OBAI)",
+    "publishedAt": "2026-11-10T11:01:35.822Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by Our Bond, Inc.  (OBAI) with the SEC on 2026-11-09 discloses entry into a material definitive agreement.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — Our Bond, Inc.  (OBAI) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1756064&type=8-K",
+    "tags": [
+      "Our Bond, Inc.  (OBAI)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "tsm-insider-buy-choh-fei-yeap-2026-11-10-06-41-26-2u91k",
+    "title": "Choh Fei Yeap, SVP at Taiwan Semiconductor Manufacturing Co Ltd, Buys Shares Worth $4,019",
+    "dek": "Choh Fei Yeap (SVP) purchased 57 shares of Taiwan Semiconductor Manufacturing Co Ltd, valued at approximately $4,019.",
+    "category": "insider-trading",
+    "ticker": "TSM",
+    "companyName": "Taiwan Semiconductor Manufacturing Co Ltd",
+    "publishedAt": "2026-11-10T10:50:35.822Z",
+    "byline": "Max I.",
+    "body": [
+      "Taiwan Semiconductor Manufacturing Co Ltd (TSM) disclosed that Choh Fei Yeap, who holds the position of SVP at the company, was involved in buying 57 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $70.50 per share, for a total value of approximately $4,019.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — TSM Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "TSM",
+      "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "tsm-insider-buy-kevin-xiaoqiang-zhang-2026-11-10-06-41-20-w4yg1",
+    "title": "Taiwan Semiconductor Manufacturing Co Ltd Insider Buying: Kevin Xiaoqiang Zhang Adds Stake",
+    "dek": "Kevin Xiaoqiang Zhang (SVP, Deputy Co-COO) purchased 65 shares of Taiwan Semiconductor Manufacturing Co Ltd, valued at approximately $4,583.",
+    "category": "insider-trading",
+    "ticker": "TSM",
+    "companyName": "Taiwan Semiconductor Manufacturing Co Ltd",
+    "publishedAt": "2026-11-10T10:28:35.822Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Kevin Xiaoqiang Zhang, SVP, Deputy Co-COO at Taiwan Semiconductor Manufacturing Co Ltd (TSM), purchased 65 shares of company stock on 2026-11-06.",
+      "The transaction was executed at a price of $70.50 per share, for a total value of approximately $4,583.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — TSM Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "TSM",
+      "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "americas-carmart-inc-crmt-8k-entry-into-a-material-definitive-agreeme-2026-11-10-tzhaj",
+    "title": "SEC Filing: AMERICAS CARMART INC  (CRMT) Reports Entry into a material definitive agreement",
+    "dek": "AMERICAS CARMART INC  (CRMT) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-10.",
+    "category": "corporate-filings",
+    "companyName": "AMERICAS CARMART INC  (CRMT)",
+    "publishedAt": "2026-11-10T10:17:35.822Z",
+    "byline": "Max I.",
+    "body": [
+      "AMERICAS CARMART INC  (CRMT) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-11-10.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — AMERICAS CARMART INC  (CRMT) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=799850&type=8-K",
+    "tags": [
+      "AMERICAS CARMART INC  (CRMT)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "tsm-insider-buy-yi-huang-wu-2026-11-10-06-41-13-68rsf",
+    "title": "Taiwan Semiconductor Manufacturing Co Ltd Insider Buying: Yi-Huang Wu Adds Stake",
+    "dek": "Yi-Huang Wu (VP) purchased 41 shares of Taiwan Semiconductor Manufacturing Co Ltd, valued at approximately $2,891.",
+    "category": "insider-trading",
+    "ticker": "TSM",
+    "companyName": "Taiwan Semiconductor Manufacturing Co Ltd",
+    "publishedAt": "2026-11-10T10:06:35.822Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Yi-Huang Wu, VP at Taiwan Semiconductor Manufacturing Co Ltd (TSM), purchased 41 shares of company stock on 2026-11-06.",
+      "The transaction was executed at a price of $70.50 per share, for a total value of approximately $2,891.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — TSM Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "TSM",
+      "Taiwan Semiconductor Manufacturing Co Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
     "slug": "api-insider-buy-bin-zhao-2026-11-09-07-57-31-qshl8",
     "title": "Bin Zhao, CEO at Agora, Inc., Buys Shares Worth $123,109",
     "dek": "Bin Zhao (CEO) purchased 28,665 shares of Agora, Inc., valued at approximately $123,109.",
