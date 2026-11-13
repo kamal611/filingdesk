@@ -1,5 +1,311 @@
 [
   {
+    "slug": "aim-insider-buy-thomas-equels-k-2026-11-13-08-00-03-fr1fl",
+    "title": "CEO, Pres at Aim Immunotech Inc. Buys $5,215 in Stock",
+    "dek": "Thomas Equels K (CEO, Pres) purchased 35,000 shares of Aim Immunotech Inc., valued at approximately $5,215.",
+    "category": "insider-trading",
+    "ticker": "AIM",
+    "companyName": "Aim Immunotech Inc.",
+    "publishedAt": "2026-11-13T13:01:56.638Z",
+    "byline": "Max I.",
+    "body": [
+      "Thomas Equels K, who serves as CEO, Pres at Aim Immunotech Inc. (AIM), purchased 35,000 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $0.15 per share, for a total value of approximately $5,215.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — AIM Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "AIM",
+      "Aim Immunotech Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "applied-optoelectronics-inc-aaoi-8k-entry-into-a-material-definitive-agreeme-2026-11-12-xydlt",
+    "title": "APPLIED OPTOELECTRONICS, INC.  (AAOI) Files 8-K Regarding Entry into a material definitive agreement",
+    "dek": "APPLIED OPTOELECTRONICS, INC.  (AAOI) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-12.",
+    "category": "corporate-filings",
+    "companyName": "APPLIED OPTOELECTRONICS, INC.  (AAOI)",
+    "publishedAt": "2026-11-13T12:50:56.638Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by APPLIED OPTOELECTRONICS, INC.  (AAOI) with the SEC on 2026-11-12 discloses entry into a material definitive agreement.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — APPLIED OPTOELECTRONICS, INC.  (AAOI) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1158114&type=8-K",
+    "tags": [
+      "APPLIED OPTOELECTRONICS, INC.  (AAOI)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "csqr-insider-buy-cook-steven-r-e-2026-11-13-07-56-47-ujflb",
+    "title": "CFO at Csquare, Inc. Buys $35,000 in Stock",
+    "dek": "Cook Steven R. E. (CFO) purchased 2,028 shares of Csquare, Inc., valued at approximately $35,000.",
+    "category": "insider-trading",
+    "ticker": "CSQR",
+    "companyName": "Csquare, Inc.",
+    "publishedAt": "2026-11-13T12:39:56.638Z",
+    "byline": "Max I.",
+    "body": [
+      "Cook Steven R. E., who serves as CFO at Csquare, Inc. (CSQR), purchased 2,028 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $17.26 per share, for a total value of approximately $35,000.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — CSQR Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "CSQR",
+      "Csquare, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "thg-insider-sale-john-roche-c-2026-11-13-07-04-55-n6kez",
+    "title": "Pres, CEO at Hanover Insurance Group, Inc. Sells $3.60 million in Stock",
+    "dek": "John Roche C (Pres, CEO) sold 14,422 shares of Hanover Insurance Group, Inc., valued at approximately $3.60 million.",
+    "category": "insider-trading",
+    "ticker": "THG",
+    "companyName": "Hanover Insurance Group, Inc.",
+    "publishedAt": "2026-11-13T12:17:56.638Z",
+    "byline": "Max I.",
+    "body": [
+      "John Roche C, who serves as Pres, CEO at Hanover Insurance Group, Inc. (THG), sold 14,422 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $249.39 per share, for a total value of approximately $3.60 million.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — THG Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "THG",
+      "Hanover Insurance Group, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "owls-insider-buy-chun-kai-wang-2026-11-13-06-59-49-xnzgr",
+    "title": "Obook Holdings Inc. Insider Buying: Chun Kai Wang Adds Stake",
+    "dek": "Chun Kai Wang (CEO) purchased 6,171 shares of Obook Holdings Inc., valued at approximately $13,403.",
+    "category": "insider-trading",
+    "ticker": "OWLS",
+    "companyName": "Obook Holdings Inc.",
+    "publishedAt": "2026-11-13T11:55:56.638Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Chun Kai Wang, CEO at Obook Holdings Inc. (OWLS), purchased 6,171 shares of company stock on 2026-11-12.",
+      "The transaction was executed at a price of $2.17 per share, for a total value of approximately $13,403.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — OWLS Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "OWLS",
+      "Obook Holdings Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "ecx-insider-buy-ziyu-shen-2026-11-13-06-25-24-64qxv",
+    "title": "CEO at Ecarx Holdings Inc. Buys $233,670 in Stock",
+    "dek": "Ziyu Shen (CEO) purchased 300,000 shares of Ecarx Holdings Inc., valued at approximately $233,670.",
+    "category": "insider-trading",
+    "ticker": "ECX",
+    "companyName": "Ecarx Holdings Inc.",
+    "publishedAt": "2026-11-13T11:33:56.638Z",
+    "byline": "Max I.",
+    "body": [
+      "Ziyu Shen, who serves as CEO at Ecarx Holdings Inc. (ECX), purchased 300,000 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $0.78 per share, for a total value of approximately $233,670.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — ECX Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "ECX",
+      "Ecarx Holdings Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "hnge-insider-sale-elliott-robinson-2026-11-13-06-15-29-31c9w",
+    "title": "Hinge Health, Inc. Insider Selling: Elliott Robinson Trims Stake",
+    "dek": "Elliott Robinson (Dir) sold shares of Hinge Health, Inc..",
+    "category": "insider-trading",
+    "ticker": "HNGE",
+    "companyName": "Hinge Health, Inc.",
+    "publishedAt": "2026-11-13T11:11:56.638Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Elliott Robinson, Dir at Hinge Health, Inc. (HNGE), sold shares of company stock on 2026-11-09.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — HNGE Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "HNGE",
+      "Hinge Health, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "asr-insider-buy-perez-anton-jose-antonio-2026-11-12-21-36-26-rwkwo",
+    "title": "Perez Anton Jose Antonio, Dir at Southeast Airport Group, Buys Shares Worth $497,650",
+    "dek": "Perez Anton Jose Antonio (Dir) purchased 1,875 shares of Southeast Airport Group, valued at approximately $497,650.",
+    "category": "insider-trading",
+    "ticker": "ASR",
+    "companyName": "Southeast Airport Group",
+    "publishedAt": "2026-11-13T10:49:56.638Z",
+    "byline": "Max I.",
+    "body": [
+      "Southeast Airport Group (ASR) disclosed that Perez Anton Jose Antonio, who holds the position of Dir at the company, was involved in buying 1,875 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $265.41 per share, for a total value of approximately $497,650.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — ASR Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "ASR",
+      "Southeast Airport Group",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "lrmr-insider-buy-thomas-edward-hamilton-2026-11-12-21-32-19-p5zdk",
+    "title": "Dir at Larimar Therapeutics, Inc. Buys $187,082 in Stock",
+    "dek": "Thomas Edward Hamilton (Dir) purchased 70,000 shares of Larimar Therapeutics, Inc., valued at approximately $187,082.",
+    "category": "insider-trading",
+    "ticker": "LRMR",
+    "companyName": "Larimar Therapeutics, Inc.",
+    "publishedAt": "2026-11-13T10:27:56.638Z",
+    "byline": "Max I.",
+    "body": [
+      "Thomas Edward Hamilton, who serves as Dir at Larimar Therapeutics, Inc. (LRMR), purchased 70,000 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $2.67 per share, for a total value of approximately $187,082.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — LRMR Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "LRMR",
+      "Larimar Therapeutics, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "ctri-insider-sale-carl-icahn-c-2026-11-12-21-30-10-cydxj",
+    "title": "Carl Icahn C, 10% at Centuri Holdings, Inc., Sells Shares Worth $30.1 million",
+    "dek": "Carl Icahn C (10%) sold 1,500,433 shares of Centuri Holdings, Inc., valued at approximately $30.1 million.",
+    "category": "insider-trading",
+    "ticker": "CTRI",
+    "companyName": "Centuri Holdings, Inc.",
+    "publishedAt": "2026-11-13T10:05:56.638Z",
+    "byline": "Max I.",
+    "body": [
+      "Centuri Holdings, Inc. (CTRI) disclosed that Carl Icahn C, who holds the position of 10% at the company, was involved in selling 1,500,433 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $20.09 per share, for a total value of approximately $30.1 million.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — CTRI Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "CTRI",
+      "Centuri Holdings, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "mediaalpha-inc-max-8k-entry-into-a-material-definitive-agreeme-2026-11-12-k9q0x",
+    "title": "MediaAlpha, Inc.  (MAX) Discloses Entry into a material definitive agreement in New SEC Filing",
+    "dek": "MediaAlpha, Inc.  (MAX) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-12.",
+    "category": "corporate-filings",
+    "companyName": "MediaAlpha, Inc.  (MAX)",
+    "publishedAt": "2026-11-13T09:54:56.638Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by MediaAlpha, Inc.  (MAX) with the SEC on 2026-11-12 discloses entry into a material definitive agreement.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — MediaAlpha, Inc.  (MAX) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1818383&type=8-K",
+    "tags": [
+      "MediaAlpha, Inc.  (MAX)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "pgy-insider-sale-jonathan-dobres-2026-11-12-21-28-52-ov5vw",
+    "title": "Pagaya Technologies Ltd. Insider Selling: Jonathan Dobres Trims Stake",
+    "dek": "Jonathan Dobres (CFO) sold 10,217 shares of Pagaya Technologies Ltd., valued at approximately $174,421.",
+    "category": "insider-trading",
+    "ticker": "PGY",
+    "companyName": "Pagaya Technologies Ltd.",
+    "publishedAt": "2026-11-13T09:43:56.638Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Jonathan Dobres, CFO at Pagaya Technologies Ltd. (PGY), sold 10,217 shares of company stock on 2026-11-10.",
+      "The transaction was executed at a price of $17.07 per share, for a total value of approximately $174,421.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — PGY Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "PGY",
+      "Pagaya Technologies Ltd.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "spfi-insider-sale-richard-campbell-d-2026-11-12-21-11-00-783f5",
+    "title": "South Plains Financial, Inc. Insider Selling: Richard Campbell D Trims Stake",
+    "dek": "Richard Campbell D (Dir) sold 24,754 shares of South Plains Financial, Inc., valued at approximately $1.07 million.",
+    "category": "insider-trading",
+    "ticker": "SPFI",
+    "companyName": "South Plains Financial, Inc.",
+    "publishedAt": "2026-11-13T09:21:56.638Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Richard Campbell D, Dir at South Plains Financial, Inc. (SPFI), sold 24,754 shares of company stock on 2026-11-09.",
+      "The transaction was executed at a price of $43.28 per share, for a total value of approximately $1.07 million.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — SPFI Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "SPFI",
+      "South Plains Financial, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
     "slug": "hos-insider-buy-todd-hornbeck-m-2026-11-12-08-02-08-yq2i8",
     "title": "Pres, CEO at Hornbeck Offshore Services, Inc. Buys $1.50 million in Stock",
     "dek": "Todd Hornbeck M (Pres, CEO) purchased 280,866 shares of Hornbeck Offshore Services, Inc., valued at approximately $1.50 million.",
