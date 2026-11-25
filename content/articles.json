@@ -1,5 +1,305 @@
 [
   {
+    "slug": "has-insider-sale-gina-goetter-m-2026-11-25-07-52-41-n4zsx",
+    "title": "Hasbro, Inc. Insider Selling: Gina Goetter M Trims Stake",
+    "dek": "Gina Goetter M (EVP, CFO) sold 2,840 shares of Hasbro, Inc., valued at approximately $319,228.",
+    "category": "insider-trading",
+    "ticker": "HAS",
+    "companyName": "Hasbro, Inc.",
+    "publishedAt": "2026-11-25T13:01:01.204Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Gina Goetter M, EVP, CFO at Hasbro, Inc. (HAS), sold 2,840 shares of company stock on 2026-11-24.",
+      "The transaction was executed at a price of $112.40 per share, for a total value of approximately $319,228.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — HAS Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "HAS",
+      "Hasbro, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "scor-insider-buy-matthew-mclaughlin-f-2026-11-25-07-49-16-uz1v8",
+    "title": "Comscore, Inc. Insider Buying: Matthew McLaughlin F. Adds Stake",
+    "dek": "Matthew McLaughlin F. (CEO) purchased 25,907 shares of Comscore, Inc., valued at approximately $88,861.",
+    "category": "insider-trading",
+    "ticker": "SCOR",
+    "companyName": "Comscore, Inc.",
+    "publishedAt": "2026-11-25T12:39:01.204Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Matthew McLaughlin F., CEO at Comscore, Inc. (SCOR), purchased 25,907 shares of company stock on 2026-11-24.",
+      "The transaction was executed at a price of $3.43 per share, for a total value of approximately $88,861.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — SCOR Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "SCOR",
+      "Comscore, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "kavilco-inc-wa-8k-entry-into-a-material-definitive-agreeme-2026-11-24-97jg6",
+    "title": "KAVILCO INC/WA/ Files 8-K Regarding Entry into a material definitive agreement",
+    "dek": "KAVILCO INC/WA/ disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-24.",
+    "category": "corporate-filings",
+    "companyName": "KAVILCO INC/WA/",
+    "publishedAt": "2026-11-25T12:28:01.204Z",
+    "byline": "Max I.",
+    "body": [
+      "KAVILCO INC/WA/ filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-11-24.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — KAVILCO INC/WA/ Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=859765&type=8-K",
+    "tags": [
+      "KAVILCO INC/WA/",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "dell-insider-sale-lynn-vojvodich-radakovich-2026-11-25-07-27-21-bsjzk",
+    "title": "Lynn Vojvodich Radakovich, Dir at Dell Technologies Inc., Sells Shares Worth $766,338",
+    "dek": "Lynn Vojvodich Radakovich (Dir) sold 2,022 shares of Dell Technologies Inc., valued at approximately $766,338.",
+    "category": "insider-trading",
+    "ticker": "DELL",
+    "companyName": "Dell Technologies Inc.",
+    "publishedAt": "2026-11-25T12:17:01.204Z",
+    "byline": "Max I.",
+    "body": [
+      "Dell Technologies Inc. (DELL) disclosed that Lynn Vojvodich Radakovich, who holds the position of Dir at the company, was involved in selling 2,022 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $379.00 per share, for a total value of approximately $766,338.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — DELL Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "DELL",
+      "Dell Technologies Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "shmd-insider-buy-schuetz-arthur-josef-hermann-2026-11-25-07-26-24-7u52n",
+    "title": "Schuetz Arthur Josef Hermann, CFO Schmid Group N.V. at Schmid Group N.V., Buys Shares Worth $2147.5 million",
+    "dek": "Schuetz Arthur Josef Hermann (CFO Schmid Group N.V.) purchased 60,000 shares of Schmid Group N.V., valued at approximately $2147.5 million.",
+    "category": "insider-trading",
+    "ticker": "SHMD",
+    "companyName": "Schmid Group N.V.",
+    "publishedAt": "2026-11-25T11:55:01.204Z",
+    "byline": "Max I.",
+    "body": [
+      "Schmid Group N.V. (SHMD) disclosed that Schuetz Arthur Josef Hermann, who holds the position of CFO Schmid Group N.V. at the company, was involved in buying 60,000 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $1731430.00 per share, for a total value of approximately $2147.5 million.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — SHMD Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "SHMD",
+      "Schmid Group N.V.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "usbc-inc-usbc-8k-entry-into-a-material-definitive-agreeme-2026-11-24-c2pg9",
+    "title": "SEC Filing: USBC, Inc.  (USBC) Reports Entry into a material definitive agreement",
+    "dek": "USBC, Inc.  (USBC) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-24.",
+    "category": "corporate-filings",
+    "companyName": "USBC, Inc.  (USBC)",
+    "publishedAt": "2026-11-25T11:44:01.204Z",
+    "byline": "Max I.",
+    "body": [
+      "USBC, Inc.  (USBC) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-11-24.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — USBC, Inc.  (USBC) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1074828&type=8-K",
+    "tags": [
+      "USBC, Inc.  (USBC)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "vani-insider-buy-gregg-williams-2026-11-25-07-00-07-sduev",
+    "title": "Dir, 10% at Vivani Medical, Inc. Buys $160,079 in Stock",
+    "dek": "Gregg Williams (Dir, 10%) purchased 124,285 shares of Vivani Medical, Inc., valued at approximately $160,079.",
+    "category": "insider-trading",
+    "ticker": "VANI",
+    "companyName": "Vivani Medical, Inc.",
+    "publishedAt": "2026-11-25T11:33:01.204Z",
+    "byline": "Max I.",
+    "body": [
+      "Gregg Williams, who serves as Dir, 10% at Vivani Medical, Inc. (VANI), purchased 124,285 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $1.29 per share, for a total value of approximately $160,079.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — VANI Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "VANI",
+      "Vivani Medical, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "proficient-auto-logistics-inc-pal-8k-entry-into-a-material-definitive-agreeme-2026-11-24-jxwmg",
+    "title": "Proficient Auto Logistics, Inc  (PAL) Discloses Entry into a material definitive agreement in New SEC Filing",
+    "dek": "Proficient Auto Logistics, Inc  (PAL) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-24.",
+    "category": "corporate-filings",
+    "companyName": "Proficient Auto Logistics, Inc  (PAL)",
+    "publishedAt": "2026-11-25T11:22:01.204Z",
+    "byline": "Max I.",
+    "body": [
+      "Proficient Auto Logistics, Inc  (PAL) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-11-24.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — Proficient Auto Logistics, Inc  (PAL) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1998768&type=8-K",
+    "tags": [
+      "Proficient Auto Logistics, Inc  (PAL)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "clbt-insider-sale-david-nicholas-gee-2026-11-25-06-41-09-4fvpi",
+    "title": "David Nicholas Gee, CMO at Cellebrite Di Ltd., Sells Shares Worth $46,489",
+    "dek": "David Nicholas Gee (CMO) sold 4,002 shares of Cellebrite Di Ltd., valued at approximately $46,489.",
+    "category": "insider-trading",
+    "ticker": "CLBT",
+    "companyName": "Cellebrite Di Ltd.",
+    "publishedAt": "2026-11-25T11:11:01.204Z",
+    "byline": "Max I.",
+    "body": [
+      "Cellebrite Di Ltd. (CLBT) disclosed that David Nicholas Gee, who holds the position of CMO at the company, was involved in selling 4,002 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $11.62 per share, for a total value of approximately $46,489.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — CLBT Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "CLBT",
+      "Cellebrite Di Ltd.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "alt-insider-buy-catherine-sohn-a-2026-11-25-06-32-01-hfays",
+    "title": "Catherine Sohn A., Dir at Altimmune, Inc., Buys Shares Worth $14,300",
+    "dek": "Catherine Sohn A. (Dir) purchased 10,000 shares of Altimmune, Inc., valued at approximately $14,300.",
+    "category": "insider-trading",
+    "ticker": "ALT",
+    "companyName": "Altimmune, Inc.",
+    "publishedAt": "2026-11-25T10:49:01.204Z",
+    "byline": "Max I.",
+    "body": [
+      "Altimmune, Inc. (ALT) disclosed that Catherine Sohn A., who holds the position of Dir at the company, was involved in buying 10,000 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $1.43 per share, for a total value of approximately $14,300.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — ALT Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "ALT",
+      "Altimmune, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "mx-insider-buy-chae-lee-2026-11-25-06-30-03-w6fyi",
+    "title": "Magnachip Semiconductor Corp Insider Buying: Chae Lee Adds Stake",
+    "dek": "Chae Lee (CEO) purchased 40,000 shares of Magnachip Semiconductor Corp, valued at approximately $86,366.",
+    "category": "insider-trading",
+    "ticker": "MX",
+    "companyName": "Magnachip Semiconductor Corp",
+    "publishedAt": "2026-11-25T10:27:01.204Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Chae Lee, CEO at Magnachip Semiconductor Corp (MX), purchased 40,000 shares of company stock on 2026-11-24.",
+      "The transaction was executed at a price of $2.16 per share, for a total value of approximately $86,366.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — MX Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "MX",
+      "Magnachip Semiconductor Corp",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "sharonai-holdings-inc-shaz-shazw-8k-entry-into-a-material-definitive-agreeme-2026-11-24-d4q6r",
+    "title": "SharonAI Holdings Inc.  (SHAZ, SHAZW) Discloses Entry into a material definitive agreement in New SEC Filing",
+    "dek": "SharonAI Holdings Inc.  (SHAZ, SHAZW) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-24.",
+    "category": "corporate-filings",
+    "companyName": "SharonAI Holdings Inc.  (SHAZ, SHAZW)",
+    "publishedAt": "2026-11-25T10:16:01.204Z",
+    "byline": "Max I.",
+    "body": [
+      "SharonAI Holdings Inc.  (SHAZ, SHAZW) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-11-24.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — SharonAI Holdings Inc.  (SHAZ, SHAZW) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2068385&type=8-K",
+    "tags": [
+      "SharonAI Holdings Inc.  (SHAZ, SHAZW)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "msc-insider-buy-ho-lawrence-yau-lung-2026-11-25-06-07-00-jqgms",
+    "title": "Ho Lawrence Yau Lung, Dir at Studio City International Holdings Ltd, Buys Shares Worth $14,968",
+    "dek": "Ho Lawrence Yau Lung (Dir) purchased 49,068 shares of Studio City International Holdings Ltd, valued at approximately $14,968.",
+    "category": "insider-trading",
+    "ticker": "MSC",
+    "companyName": "Studio City International Holdings Ltd",
+    "publishedAt": "2026-11-25T10:05:01.204Z",
+    "byline": "Max I.",
+    "body": [
+      "Studio City International Holdings Ltd (MSC) disclosed that Ho Lawrence Yau Lung, who holds the position of Dir at the company, was involved in buying 49,068 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $0.31 per share, for a total value of approximately $14,968.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — MSC Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "MSC",
+      "Studio City International Holdings Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
     "slug": "trvg-insider-sale-mathias-hansen-2026-11-24-07-34-45-ba41f",
     "title": "Mathias Hansen, GC at Trivago N.V., Sells Shares Worth $62,100",
     "dek": "Mathias Hansen (GC) sold 15,000 shares of Trivago N.V., valued at approximately $62,100.",
