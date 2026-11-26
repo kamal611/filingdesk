@@ -1,5 +1,299 @@
 [
   {
+    "slug": "aspi-insider-sale-todd-wider-2026-11-25-21-47-25-4el30",
+    "title": "Asp Isotopes Inc. Insider Selling: Todd Wider Trims Stake",
+    "dek": "Todd Wider (Dir) sold 200,000 shares of Asp Isotopes Inc., valued at approximately $242,416.",
+    "category": "insider-trading",
+    "ticker": "ASPI",
+    "companyName": "Asp Isotopes Inc.",
+    "publishedAt": "2026-11-26T13:00:09.551Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Todd Wider, Dir at Asp Isotopes Inc. (ASPI), sold 200,000 shares of company stock on 2026-11-23.",
+      "The transaction was executed at a price of $1.21 per share, for a total value of approximately $242,416.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — ASPI Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "ASPI",
+      "Asp Isotopes Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "ultragenyx-pharmaceutical-inc-rare-8k-the-completion-of-an-acquisition-or-disp-2026-11-23-30j0t",
+    "title": "Ultragenyx Pharmaceutical Inc.  (RARE) Discloses The completion of an acquisition or disposition of assets in New SEC Filing",
+    "dek": "Ultragenyx Pharmaceutical Inc.  (RARE) disclosed the completion of an acquisition or disposition of assets in a Form 8-K filed with the SEC on 2026-11-23.",
+    "category": "corporate-filings",
+    "companyName": "Ultragenyx Pharmaceutical Inc.  (RARE)",
+    "publishedAt": "2026-11-26T12:49:09.551Z",
+    "byline": "Max I.",
+    "body": [
+      "Ultragenyx Pharmaceutical Inc.  (RARE) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing the completion of an acquisition or disposition of assets, according to the filing dated 2026-11-23.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — Ultragenyx Pharmaceutical Inc.  (RARE) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1515673&type=8-K",
+    "tags": [
+      "Ultragenyx Pharmaceutical Inc.  (RARE)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "fld-insider-sale-reeves-william-brian-poppic-2026-11-25-21-30-04-oaeef",
+    "title": "CEO, 10% at Fold Holdings, Inc. Sells $2,400 in Stock",
+    "dek": "Reeves William Brian Poppic (CEO, 10%) sold 7,548 shares of Fold Holdings, Inc., valued at approximately $2,400.",
+    "category": "insider-trading",
+    "ticker": "FLD",
+    "companyName": "Fold Holdings, Inc.",
+    "publishedAt": "2026-11-26T12:38:09.551Z",
+    "byline": "Max I.",
+    "body": [
+      "Reeves William Brian Poppic, who serves as CEO, 10% at Fold Holdings, Inc. (FLD), sold 7,548 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $0.32 per share, for a total value of approximately $2,400.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — FLD Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "FLD",
+      "Fold Holdings, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "marygold-companies-inc-mgld-8k-the-completion-of-an-acquisition-or-disp-2026-11-23-2igoc",
+    "title": "Marygold Companies, Inc.  (MGLD) Files 8-K Regarding The completion of an acquisition or disposition of assets",
+    "dek": "Marygold Companies, Inc.  (MGLD) disclosed the completion of an acquisition or disposition of assets in a Form 8-K filed with the SEC on 2026-11-23.",
+    "category": "corporate-filings",
+    "companyName": "Marygold Companies, Inc.  (MGLD)",
+    "publishedAt": "2026-11-26T12:27:09.551Z",
+    "byline": "Max I.",
+    "body": [
+      "Marygold Companies, Inc.  (MGLD) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing the completion of an acquisition or disposition of assets, according to the filing dated 2026-11-23.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — Marygold Companies, Inc.  (MGLD) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1005101&type=8-K",
+    "tags": [
+      "Marygold Companies, Inc.  (MGLD)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "zs-insider-sale-kevin-rubin-2026-11-25-21-12-03-2ww5a",
+    "title": "CFO at Zscaler, Inc. Sells $114,506 in Stock",
+    "dek": "Kevin Rubin (CFO) sold 514 shares of Zscaler, Inc., valued at approximately $114,506.",
+    "category": "insider-trading",
+    "ticker": "ZS",
+    "companyName": "Zscaler, Inc.",
+    "publishedAt": "2026-11-26T12:16:09.551Z",
+    "byline": "Max I.",
+    "body": [
+      "Kevin Rubin, who serves as CFO at Zscaler, Inc. (ZS), sold 514 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $222.77 per share, for a total value of approximately $114,506.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — ZS Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "ZS",
+      "Zscaler, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "kavilco-inc-wa-8k-the-completion-of-an-acquisition-or-disp-2026-11-24-nlh4z",
+    "title": "SEC Filing: KAVILCO INC/WA/ Reports The completion of an acquisition or disposition of assets",
+    "dek": "KAVILCO INC/WA/ disclosed the completion of an acquisition or disposition of assets in a Form 8-K filed with the SEC on 2026-11-24.",
+    "category": "corporate-filings",
+    "companyName": "KAVILCO INC/WA/",
+    "publishedAt": "2026-11-26T12:05:09.551Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by KAVILCO INC/WA/ with the SEC on 2026-11-24 discloses the completion of an acquisition or disposition of assets.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — KAVILCO INC/WA/ Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=859765&type=8-K",
+    "tags": [
+      "KAVILCO INC/WA/",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "adma-insider-sale-kaitlin-kestenberg-messina-m-2026-11-25-21-00-11-qc931",
+    "title": "Kaitlin Kestenberg-Messina M., COO, SVP, Compliance at Adma Biologics, Inc., Sells Shares Worth $416,100",
+    "dek": "Kaitlin Kestenberg-Messina M. (COO, SVP, Compliance) sold 30,000 shares of Adma Biologics, Inc., valued at approximately $416,100.",
+    "category": "insider-trading",
+    "ticker": "ADMA",
+    "companyName": "Adma Biologics, Inc.",
+    "publishedAt": "2026-11-26T11:54:09.551Z",
+    "byline": "Max I.",
+    "body": [
+      "Adma Biologics, Inc. (ADMA) disclosed that Kaitlin Kestenberg-Messina M., who holds the position of COO, SVP, Compliance at the company, was involved in selling 30,000 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $13.87 per share, for a total value of approximately $416,100.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — ADMA Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "ADMA",
+      "Adma Biologics, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "five9-inc-fivn-8k-the-completion-of-an-acquisition-or-disp-2026-11-24-1ea5d",
+    "title": "Five9, Inc.  (FIVN) Files 8-K Regarding The completion of an acquisition or disposition of assets",
+    "dek": "Five9, Inc.  (FIVN) disclosed the completion of an acquisition or disposition of assets in a Form 8-K filed with the SEC on 2026-11-24.",
+    "category": "corporate-filings",
+    "companyName": "Five9, Inc.  (FIVN)",
+    "publishedAt": "2026-11-26T11:43:09.551Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by Five9, Inc.  (FIVN) with the SEC on 2026-11-24 discloses the completion of an acquisition or disposition of assets.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — Five9, Inc.  (FIVN) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1288847&type=8-K",
+    "tags": [
+      "Five9, Inc.  (FIVN)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "hg-insider-sale-david-brown-a-2026-11-25-20-59-50-bosz4",
+    "title": "Hamilton Insurance Group, Ltd. Insider Selling: David Brown A Trims Stake",
+    "dek": "David Brown A (Dir) sold 50,000 shares of Hamilton Insurance Group, Ltd., valued at approximately $1.95 million.",
+    "category": "insider-trading",
+    "ticker": "HG",
+    "companyName": "Hamilton Insurance Group, Ltd.",
+    "publishedAt": "2026-11-26T11:32:09.551Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows David Brown A, Dir at Hamilton Insurance Group, Ltd. (HG), sold 50,000 shares of company stock on 2026-11-24.",
+      "The transaction was executed at a price of $39.05 per share, for a total value of approximately $1.95 million.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — HG Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "HG",
+      "Hamilton Insurance Group, Ltd.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "vyome-holdings-inc-hind-8k-the-completion-of-an-acquisition-or-disp-2026-11-24-5yqbx",
+    "title": "Vyome Holdings, Inc  (HIND) Discloses The completion of an acquisition or disposition of assets in New SEC Filing",
+    "dek": "Vyome Holdings, Inc  (HIND) disclosed the completion of an acquisition or disposition of assets in a Form 8-K filed with the SEC on 2026-11-24.",
+    "category": "corporate-filings",
+    "companyName": "Vyome Holdings, Inc  (HIND)",
+    "publishedAt": "2026-11-26T11:21:09.551Z",
+    "byline": "Max I.",
+    "body": [
+      "Vyome Holdings, Inc  (HIND) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing the completion of an acquisition or disposition of assets, according to the filing dated 2026-11-24.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — Vyome Holdings, Inc  (HIND) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1427570&type=8-K",
+    "tags": [
+      "Vyome Holdings, Inc  (HIND)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "rgc-insider-sale-lo-william-wing-yan-dr-2026-11-25-20-17-46-e3mn7",
+    "title": "Lo William Wing Yan Dr, Dir at Regencell Bioscience Holdings Ltd, Sells Shares Worth $96,035",
+    "dek": "Lo William Wing Yan Dr (Dir) sold 22,330 shares of Regencell Bioscience Holdings Ltd, valued at approximately $96,035.",
+    "category": "insider-trading",
+    "ticker": "RGC",
+    "companyName": "Regencell Bioscience Holdings Ltd",
+    "publishedAt": "2026-11-26T11:10:09.551Z",
+    "byline": "Max I.",
+    "body": [
+      "Regencell Bioscience Holdings Ltd (RGC) disclosed that Lo William Wing Yan Dr, who holds the position of Dir at the company, was involved in selling 22,330 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $4.30 per share, for a total value of approximately $96,035.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — RGC Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "RGC",
+      "Regencell Bioscience Holdings Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "vertical-data-inc-vdta-8k-the-completion-of-an-acquisition-or-disp-2026-11-23-ey4z7",
+    "title": "Vertical Data Inc.  (VDTA) Discloses The completion of an acquisition or disposition of assets in New SEC Filing",
+    "dek": "Vertical Data Inc.  (VDTA) disclosed the completion of an acquisition or disposition of assets in a Form 8-K filed with the SEC on 2026-11-23.",
+    "category": "corporate-filings",
+    "companyName": "Vertical Data Inc.  (VDTA)",
+    "publishedAt": "2026-11-26T10:59:09.551Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by Vertical Data Inc.  (VDTA) with the SEC on 2026-11-23 discloses the completion of an acquisition or disposition of assets.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — Vertical Data Inc.  (VDTA) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=2033264&type=8-K",
+    "tags": [
+      "Vertical Data Inc.  (VDTA)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "cbll-insider-sale-joseph-manni-s-2026-11-25-20-07-26-53irr",
+    "title": "Ceribell, Inc. Insider Selling: Joseph Manni S. Trims Stake",
+    "dek": "Joseph Manni S. (Chief Revenue Officer) sold 1,313 shares of Ceribell, Inc., valued at approximately $36,633.",
+    "category": "insider-trading",
+    "ticker": "CBLL",
+    "companyName": "Ceribell, Inc.",
+    "publishedAt": "2026-11-26T10:48:09.551Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Joseph Manni S., Chief Revenue Officer at Ceribell, Inc. (CBLL), sold 1,313 shares of company stock on 2026-11-23.",
+      "The transaction was executed at a price of $27.90 per share, for a total value of approximately $36,633.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — CBLL Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "CBLL",
+      "Ceribell, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
     "slug": "has-insider-sale-gina-goetter-m-2026-11-25-07-52-41-n4zsx",
     "title": "Hasbro, Inc. Insider Selling: Gina Goetter M Trims Stake",
     "dek": "Gina Goetter M (EVP, CFO) sold 2,840 shares of Hasbro, Inc., valued at approximately $319,228.",
