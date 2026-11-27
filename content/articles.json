@@ -1,5 +1,299 @@
 [
   {
+    "slug": "api-insider-buy-bin-zhao-2026-11-27-06-44-55-d9o8k",
+    "title": "Bin Zhao, CEO at Agora, Inc., Buys Shares Worth $231,673",
+    "dek": "Bin Zhao (CEO) purchased 72,608 shares of Agora, Inc., valued at approximately $231,673.",
+    "category": "insider-trading",
+    "ticker": "API",
+    "companyName": "Agora, Inc.",
+    "publishedAt": "2026-11-27T13:00:45.237Z",
+    "byline": "Max I.",
+    "body": [
+      "Agora, Inc. (API) disclosed that Bin Zhao, who holds the position of CEO at the company, was involved in buying 72,608 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $3.19 per share, for a total value of approximately $231,673.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Insider buying is sometimes viewed by investors as a signal of confidence in a company's prospects, though a single transaction does not necessarily indicate a broader trend."
+    ],
+    "sourceLabel": "OpenInsider — API Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "API",
+      "Agora, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "edu-insider-sale-louis-hsieh-2026-11-27-06-17-48-ltivn",
+    "title": "Dir at New Oriental Education & Technology Group Inc. Sells $491,070 in Stock",
+    "dek": "Louis Hsieh (Dir) sold 10,000 shares of New Oriental Education & Technology Group Inc., valued at approximately $491,070.",
+    "category": "insider-trading",
+    "ticker": "EDU",
+    "companyName": "New Oriental Education & Technology Group Inc.",
+    "publishedAt": "2026-11-27T12:38:45.237Z",
+    "byline": "Max I.",
+    "body": [
+      "Louis Hsieh, who serves as Dir at New Oriental Education & Technology Group Inc. (EDU), sold 10,000 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $49.11 per share, for a total value of approximately $491,070.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — EDU Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "EDU",
+      "New Oriental Education & Technology Group Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "rgc-insider-sale-lo-william-wing-yan-dr-2026-11-27-06-11-13-rxzij",
+    "title": "Lo William Wing Yan Dr, Dir at Regencell Bioscience Holdings Ltd, Sells Shares Worth $55,871",
+    "dek": "Lo William Wing Yan Dr (Dir) sold 13,671 shares of Regencell Bioscience Holdings Ltd, valued at approximately $55,871.",
+    "category": "insider-trading",
+    "ticker": "RGC",
+    "companyName": "Regencell Bioscience Holdings Ltd",
+    "publishedAt": "2026-11-27T12:16:45.237Z",
+    "byline": "Max I.",
+    "body": [
+      "Regencell Bioscience Holdings Ltd (RGC) disclosed that Lo William Wing Yan Dr, who holds the position of Dir at the company, was involved in selling 13,671 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $4.09 per share, for a total value of approximately $55,871.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — RGC Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "RGC",
+      "Regencell Bioscience Holdings Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "spcb-insider-buy-arie-trabelsi-2026-11-27-06-02-51-q13vw",
+    "title": "Dir at Supercom Ltd Buys $69,843 in Stock",
+    "dek": "Arie Trabelsi (Dir) purchased 10,519 shares of Supercom Ltd, valued at approximately $69,843.",
+    "category": "insider-trading",
+    "ticker": "SPCB",
+    "companyName": "Supercom Ltd",
+    "publishedAt": "2026-11-27T11:54:45.237Z",
+    "byline": "Max I.",
+    "body": [
+      "Arie Trabelsi, who serves as Dir at Supercom Ltd (SPCB), purchased 10,519 shares of the company's stock, according to a disclosure filed with the U.S. Securities and Exchange Commission.",
+      "The transaction was executed at a price of $6.64 per share, for a total value of approximately $69,843.",
+      "Insider transactions of this kind are publicly disclosed through Form 4 filings with the SEC, which must generally be submitted within two business days of the trade date.",
+      "Purchases by company insiders are one of several signals investors monitor, alongside earnings results and broader sector trends."
+    ],
+    "sourceLabel": "OpenInsider — SPCB Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "SPCB",
+      "Supercom Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "se-insider-sale-yanjun-wang-2026-11-27-06-00-26-jf5kz",
+    "title": "Yanjun Wang, CCO, GC at Sea Ltd, Sells Shares Worth $104,244",
+    "dek": "Yanjun Wang (CCO, GC) sold 1,600 shares of Sea Ltd, valued at approximately $104,244.",
+    "category": "insider-trading",
+    "ticker": "SE",
+    "companyName": "Sea Ltd",
+    "publishedAt": "2026-11-27T11:32:45.237Z",
+    "byline": "Max I.",
+    "body": [
+      "Sea Ltd (SE) disclosed that Yanjun Wang, who holds the position of CCO, GC at the company, was involved in selling 1,600 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $65.15 per share, for a total value of approximately $104,244.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — SE Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "SE",
+      "Sea Ltd",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "borealis-foods-inc-brls-brlsw-8k-entry-into-a-material-definitive-agreeme-2026-11-25-28mwc",
+    "title": "SEC Filing: Borealis Foods Inc.  (BRLS, BRLSW) Reports Entry into a material definitive agreement",
+    "dek": "Borealis Foods Inc.  (BRLS, BRLSW) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-25.",
+    "category": "corporate-filings",
+    "companyName": "Borealis Foods Inc.  (BRLS, BRLSW)",
+    "publishedAt": "2026-11-27T10:59:45.237Z",
+    "byline": "Max I.",
+    "body": [
+      "Borealis Foods Inc.  (BRLS, BRLSW) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing entry into a material definitive agreement, according to the filing dated 2026-11-25.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — Borealis Foods Inc.  (BRLS, BRLSW) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1852973&type=8-K",
+    "tags": [
+      "Borealis Foods Inc.  (BRLS, BRLSW)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "enova-international-inc-enva-8k-entry-into-a-material-definitive-agreeme-2026-11-24-8wbky",
+    "title": "Enova International, Inc.  (ENVA) Discloses Entry into a material definitive agreement in New SEC Filing",
+    "dek": "Enova International, Inc.  (ENVA) disclosed entry into a material definitive agreement in a Form 8-K filed with the SEC on 2026-11-24.",
+    "category": "corporate-filings",
+    "companyName": "Enova International, Inc.  (ENVA)",
+    "publishedAt": "2026-11-27T09:31:45.237Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by Enova International, Inc.  (ENVA) with the SEC on 2026-11-24 discloses entry into a material definitive agreement.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — Enova International, Inc.  (ENVA) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1529864&type=8-K",
+    "tags": [
+      "Enova International, Inc.  (ENVA)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "gencor-industries-inc-genc-8k-an-executive-or-director-departure-2026-11-24-6skxm",
+    "title": "GENCOR INDUSTRIES INC  (GENC) Discloses An executive or director departure in New SEC Filing",
+    "dek": "GENCOR INDUSTRIES INC  (GENC) disclosed an executive or director departure in a Form 8-K filed with the SEC on 2026-11-24.",
+    "category": "corporate-filings",
+    "companyName": "GENCOR INDUSTRIES INC  (GENC)",
+    "publishedAt": "2026-11-27T09:09:45.237Z",
+    "byline": "Max I.",
+    "body": [
+      "GENCOR INDUSTRIES INC  (GENC) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing an executive or director departure, according to the filing dated 2026-11-24.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — GENCOR INDUSTRIES INC  (GENC) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=64472&type=8-K",
+    "tags": [
+      "GENCOR INDUSTRIES INC  (GENC)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "axos-financial-inc-ax-8k-an-executive-or-director-departure-2026-11-25-56vb2",
+    "title": "Axos Financial, Inc.  (AX) Files 8-K Regarding An executive or director departure",
+    "dek": "Axos Financial, Inc.  (AX) disclosed an executive or director departure in a Form 8-K filed with the SEC on 2026-11-25.",
+    "category": "corporate-filings",
+    "companyName": "Axos Financial, Inc.  (AX)",
+    "publishedAt": "2026-11-27T08:47:45.237Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 8-K filed by Axos Financial, Inc.  (AX) with the SEC on 2026-11-25 discloses an executive or director departure.",
+      "Public companies are required to file a Form 8-K with the SEC within four business days of a material corporate event, covering matters ranging from leadership changes to major agreements and financial results.",
+      "Investors can review the full filing directly through the SEC's EDGAR database for additional detail beyond what is summarized here."
+    ],
+    "sourceLabel": "SEC EDGAR — Axos Financial, Inc.  (AX) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1299709&type=8-K",
+    "tags": [
+      "Axos Financial, Inc.  (AX)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "cbll-insider-sale-raymond-woo-2026-11-25-20-06-29-nk840",
+    "title": "Ceribell, Inc. Insider Selling: Raymond Woo Trims Stake",
+    "dek": "Raymond Woo (CTO) sold 2,292 shares of Ceribell, Inc., valued at approximately $64,732.",
+    "category": "insider-trading",
+    "ticker": "CBLL",
+    "companyName": "Ceribell, Inc.",
+    "publishedAt": "2026-11-27T08:36:45.237Z",
+    "byline": "Max I.",
+    "body": [
+      "A Form 4 filed with the SEC shows Raymond Woo, CTO at Ceribell, Inc. (CBLL), sold 2,292 shares of company stock on 2026-11-23.",
+      "The transaction was executed at a price of $28.24 per share, for a total value of approximately $64,732.",
+      "Under SEC rules, corporate insiders — officers, directors, and holders of more than 10% of a company's shares — are required to report changes in their ownership within two business days of the transaction via Form 4.",
+      "Insider sales are common and can occur for reasons unrelated to a company's outlook, including scheduled trading plans, diversification, or personal financial planning."
+    ],
+    "sourceLabel": "OpenInsider — CBLL Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "CBLL",
+      "Ceribell, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "mplx-lp-mplx-8k-an-executive-or-director-departure-2026-11-25-8jrpn",
+    "title": "MPLX LP  (MPLX) Discloses An executive or director departure in New SEC Filing",
+    "dek": "MPLX LP  (MPLX) disclosed an executive or director departure in a Form 8-K filed with the SEC on 2026-11-25.",
+    "category": "corporate-filings",
+    "companyName": "MPLX LP  (MPLX)",
+    "publishedAt": "2026-11-27T08:25:45.237Z",
+    "byline": "Max I.",
+    "body": [
+      "MPLX LP  (MPLX) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing an executive or director departure, according to the filing dated 2026-11-25.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — MPLX LP  (MPLX) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1552000&type=8-K",
+    "tags": [
+      "MPLX LP  (MPLX)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
+    "slug": "cbll-insider-sale-david-foehr-2026-11-25-20-05-32-pcils",
+    "title": "David Foehr, SVP, Finance, PAO at Ceribell, Inc., Sells Shares Worth $78,319",
+    "dek": "David Foehr (SVP, Finance, PAO) sold 2,728 shares of Ceribell, Inc., valued at approximately $78,319.",
+    "category": "insider-trading",
+    "ticker": "CBLL",
+    "companyName": "Ceribell, Inc.",
+    "publishedAt": "2026-11-27T08:14:45.237Z",
+    "byline": "Max I.",
+    "body": [
+      "Ceribell, Inc. (CBLL) disclosed that David Foehr, who holds the position of SVP, Finance, PAO at the company, was involved in selling 2,728 shares, per a Form 4 filing with the SEC.",
+      "The transaction was executed at a price of $28.71 per share, for a total value of approximately $78,319.",
+      "Company insiders are required to disclose changes in their stock ownership to the SEC on Form 4, typically within two business days of the trade.",
+      "Sales by insiders often reflect routine portfolio management or pre-scheduled trading plans rather than a view on the company's prospects."
+    ],
+    "sourceLabel": "OpenInsider — CBLL Form 4 disclosure data",
+    "sourceUrl": "http://openinsider.com/latest-insider-trading",
+    "tags": [
+      "CBLL",
+      "Ceribell, Inc.",
+      "insider trading",
+      "Form 4"
+    ]
+  },
+  {
+    "slug": "gevo-inc-gevo-8k-an-executive-or-director-departure-2026-11-25-fo1y9",
+    "title": "Gevo, Inc.  (GEVO) Discloses An executive or director departure in New SEC Filing",
+    "dek": "Gevo, Inc.  (GEVO) disclosed an executive or director departure in a Form 8-K filed with the SEC on 2026-11-25.",
+    "category": "corporate-filings",
+    "companyName": "Gevo, Inc.  (GEVO)",
+    "publishedAt": "2026-11-27T08:03:45.237Z",
+    "byline": "Max I.",
+    "body": [
+      "Gevo, Inc.  (GEVO) filed a Form 8-K with the U.S. Securities and Exchange Commission disclosing an executive or director departure, according to the filing dated 2026-11-25.",
+      "The 8-K is the form the SEC requires public companies to use to announce major events that shareholders should know about on a current basis, rather than waiting for the next quarterly or annual report.",
+      "The filing is publicly available through the SEC's EDGAR system, which maintains disclosure records for all reporting companies."
+    ],
+    "sourceLabel": "SEC EDGAR — Gevo, Inc.  (GEVO) Form 8-K",
+    "sourceUrl": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1392380&type=8-K",
+    "tags": [
+      "Gevo, Inc.  (GEVO)",
+      "8-K",
+      "material event"
+    ]
+  },
+  {
     "slug": "aspi-insider-sale-todd-wider-2026-11-25-21-47-25-4el30",
     "title": "Asp Isotopes Inc. Insider Selling: Todd Wider Trims Stake",
     "dek": "Todd Wider (Dir) sold 200,000 shares of Asp Isotopes Inc., valued at approximately $242,416.",
